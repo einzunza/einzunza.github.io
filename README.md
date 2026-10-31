@@ -55,3 +55,15 @@ The repository `einzunza/einzunza.github.io` is published from branch `main`, fo
 ## License
 
 No license has been chosen for the content or the code. All rights reserved until one is selected.
+
+## Weekly automatic update
+
+A systemd user timer on the owner's always-on workstation (`cv-semanal.timer`, Mondays 07:00 America/Tijuana) runs a private script that:
+
+1. pulls this repository into a working clone outside Dropbox;
+2. looks for new works in the public ORCID record and in Crossref (works carrying the ORCID iD);
+3. publishes automatically only verified items: DOI registered in Crossref, journal article / book chapter / conference paper, the owner listed as author, the work present in ORCID or tagged with the ORCID iD, no duplicate title, and author metadata without signs of mis-segmentation; anything else is held for manual review;
+4. rebuilds the site and the PDF, scans for secrets and private data (aborting on any hit), commits, pushes and checks the live page;
+5. sends a summary by Telegram.
+
+Citation metrics are not refreshed automatically: Google Scholar does not allow automated queries.
