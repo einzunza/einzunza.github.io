@@ -1,0 +1,5274 @@
+{
+ "schema": "cv-academico/1.0",
+ "meta": {
+  "language": "en",
+  "updated": "2026-10-30",
+  "sources": [
+   "Mexican researcher CV (CVU, SECIHTI), single profile, cut-off date 16 August 2026",
+   "Public ORCID record 0000-0002-7994-9774 (accessed 30 October 2026)",
+   "Crossref metadata for each DOI (accessed 30 October 2026)"
+  ],
+  "site_url": "https://einzunza.github.io/",
+  "settings": {
+   "show_student_names": false
+  }
+ },
+ "person": {
+  "name": "Everardo Inzunza-González",
+  "citation_name": "E. Inzunza-González",
+  "honorific": "Dr.",
+  "position": "Full Professor and Researcher (Titular C), full-time, tenured",
+  "unit": "Faculty of Engineering, Architecture and Design (FIAD)",
+  "institution": "Universidad Autónoma de Baja California (UABC)",
+  "location": "Ensenada, Baja California, Mexico",
+  "email": "einzunza@uabc.edu.mx",
+  "photo": {
+   "src": "assets/img/everardo-inzunza-gonzalez.jpg",
+   "alt": "Portrait of Dr. Everardo Inzunza-González",
+   "width": 307,
+   "height": 366
+  },
+  "identifiers": [
+   {
+    "type": "ORCID",
+    "value": "0000-0002-7994-9774",
+    "url": "https://orcid.org/0000-0002-7994-9774"
+   },
+   {
+    "type": "Web of Science ResearcherID",
+    "value": "T-6942-2019",
+    "url": "https://www.webofscience.com/wos/author/record/T-6942-2019"
+   },
+   {
+    "type": "Google Scholar",
+    "value": "PiphRRcAAAAJ",
+    "url": "https://scholar.google.com/citations?user=PiphRRcAAAAJ"
+   }
+  ],
+  "links": [
+   {
+    "label": "ORCID",
+    "url": "https://orcid.org/0000-0002-7994-9774"
+   },
+   {
+    "label": "Google Scholar",
+    "url": "https://scholar.google.com/citations?user=PiphRRcAAAAJ"
+   },
+   {
+    "label": "Web of Science",
+    "url": "https://www.webofscience.com/wos/author/record/T-6942-2019"
+   },
+   {
+    "label": "GitHub",
+    "url": "https://github.com/einzunza"
+   }
+  ]
+ },
+ "profile": {
+  "tagline": "Professor and researcher in electronics engineering, working on deep learning for medical images and biomedical signals, chaos-based cryptography and embedded systems.",
+  "summary": "Everardo Inzunza-González is a full-time Professor and Researcher (Titular C) at the Faculty of Engineering, Architecture and Design of the Universidad Autónoma de Baja California (UABC) in Ensenada, Mexico, where he has worked since February 2000. He received his B.Sc. in Electronics Engineering from the Instituto Tecnológico de Culiacán, his M.Sc. in Electronics and Telecommunications from CICESE, and his Ph.D. in Electrical Sciences from UABC in 2013, with honorable mention. His recent work applies machine learning and deep learning to medical images and to biomedical signals such as EEG, ECG and heart sounds. He also keeps a line of research on chaos-based cryptography implemented on embedded systems, FPGAs and edge devices. He is a Level 2 member of Mexico's National System of Researchers (SNII, 2025–2029), has held the PRODEP Desirable Profile recognition since 2004, and leads the consolidated research group UABC-CA-238. He is part of the core faculty of the Master's and Doctoral Program in Science and Engineering (MyDCI) and has served as guest editor of special issues in MDPI and Elsevier journals."
+ },
+ "metrics": {
+  "source": "Google Scholar",
+  "url": "https://scholar.google.com/citations?user=PiphRRcAAAAJ",
+  "retrieved": "2026-10-30",
+  "citations": 1886,
+  "h_index": 21,
+  "i10_index": 25,
+  "note": "Computed by Google Scholar over every document it attributes to the profile, including non-peer-reviewed sources; values differ from Scopus and Web of Science."
+ },
+ "research": {
+  "lines_registered": [
+   "Development of intelligent systems using machine learning algorithms",
+   "Development of systems for the productive sector"
+  ],
+  "areas_with_output": [
+   {
+    "area": "Deep learning for medical imaging",
+    "detail": "Brain tumor and glioma classification in MRI with CNNs and Vision Transformers; plantar footprint classification."
+   },
+   {
+    "area": "Biomedical signal processing and machine learning",
+    "detail": "EEG for attention, motor imagery and mindfulness studies; heart sound denoising; deep vein thrombosis diagnosis."
+   },
+   {
+    "area": "Chaos-based cryptography and secure communications",
+    "detail": "Image and ECG encryption with chaotic maps, implemented on microcontrollers, FPGAs and multiprocessor embedded systems."
+   },
+   {
+    "area": "Embedded systems and edge AI",
+    "detail": "TinyML for gas sensing, underwater vision on ROVs, fish counting and grapevine disease detection on edge devices."
+   },
+   {
+    "area": "Robotics, path planning and logistics",
+    "detail": "Path planning for mobile robots and drones; last-mile logistics."
+   },
+   {
+    "area": "Instrumentation and RF",
+    "detail": "RF power amplifier linearization, de-embedding and microwave measurement calibration."
+   }
+  ],
+  "keywords": [
+   "artificial intelligence",
+   "deep learning",
+   "medical imaging",
+   "EEG",
+   "embedded systems",
+   "chaos-based cryptography",
+   "Internet of Things",
+   "electronic instrumentation"
+  ]
+ },
+ "education": [
+  {
+   "degree": "Ph.D. in Electrical Sciences",
+   "institution": "Universidad Autónoma de Baja California (UABC), Mexico",
+   "year": 2013,
+   "notes": "Honorable mention; academic merit award for the 2013 doctoral cohort."
+  },
+  {
+   "degree": "M.Sc. in Electronics and Telecommunications (high-frequency track)",
+   "institution": "Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), Mexico",
+   "year": 2001,
+   "notes": null
+  },
+  {
+   "degree": "B.Sc. in Electronics Engineering",
+   "institution": "Instituto Tecnológico de Culiacán (Tecnológico Nacional de México), Mexico",
+   "year": 1999,
+   "notes": null
+  }
+ ],
+ "positions": [
+  {
+   "role": "Full Professor and Researcher (Titular C), full-time, tenured",
+   "org": "FIAD, Universidad Autónoma de Baja California",
+   "start": "2000",
+   "end": null,
+   "notes": "Joined as adjunct lecturer in 2000 and as full-time professor in 2001; appointed professor-researcher in November 2010."
+  },
+  {
+   "role": "Chief Executive Officer",
+   "org": "IG Solar, Ensenada, Mexico",
+   "start": "2014",
+   "end": null,
+   "notes": "Photovoltaic systems company."
+  }
+ ],
+ "stays": [
+  {
+   "type": "Sabbatical stay",
+   "org": "Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE) and Universidad de Guadalajara",
+   "start": "2020-08",
+   "end": "2021-08",
+   "notes": null
+  },
+  {
+   "type": "Short research stay (PRODEP support)",
+   "org": "INAOE",
+   "start": "2019-06",
+   "end": "2019-08",
+   "notes": "Project “Chaotic cryptography for Industry 4.0 applications”."
+  }
+ ],
+ "publications": [
+  {
+   "id": "art-01",
+   "type": "article",
+   "year": 2026,
+   "title": "Enhancing Glioma Classification in Magnetic Resonance Imaging Using Vision Transformers and Convolutional Neural Networks",
+   "authors": [
+    {
+     "given": "Marco Antonio",
+     "family": "Gómez-Guzmán",
+     "me": false
+    },
+    {
+     "given": "José Jaime",
+     "family": "Esqueda-Elizondo",
+     "me": false
+    },
+    {
+     "given": "Laura",
+     "family": "Jiménez-Beristain",
+     "me": false
+    },
+    {
+     "given": "Gilberto Manuel",
+     "family": "Galindo-Aldana",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrian",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Edgar Rene",
+     "family": "Ramos-Acosta",
+     "me": false
+    },
+    {
+     "given": "Cynthia",
+     "family": "Torres-Gonzalez",
+     "me": false
+    },
+    {
+     "given": "Enrique Efren",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    }
+   ],
+   "venue": "Electronics",
+   "volume": "15",
+   "issue": "2",
+   "pages": null,
+   "article_number": "434",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/electronics15020434",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-02",
+   "type": "article",
+   "year": 2026,
+   "title": "Adaptive Assistive Technologies for Learning Mexican Sign Language: Design of a Mobile Application with Computer Vision and Personalized Educational Interaction",
+   "authors": [
+    {
+     "given": "Carlos",
+     "family": "Hurtado-Sánchez",
+     "me": false
+    },
+    {
+     "given": "Ricardo",
+     "family": "Rosales-Cisneros",
+     "me": false
+    },
+    {
+     "given": "José Ricardo",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "Andrés",
+     "family": "Calvillo-Téllez",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Future Internet",
+   "volume": "18",
+   "issue": "1",
+   "pages": null,
+   "article_number": "61",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/fi18010061",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-03",
+   "type": "article",
+   "year": 2026,
+   "title": "Real-time seismic signal classification using deep vision architectures for earthquake early warning systems",
+   "authors": [
+    {
+     "given": "Andrés",
+     "family": "Navarro-Rodríguez",
+     "me": false
+    },
+    {
+     "given": "Oscar Alberto",
+     "family": "Castro-Artola",
+     "me": false
+    },
+    {
+     "given": "Boris",
+     "family": "Rösler",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrian",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Jorge",
+     "family": "Galarza-Falfan",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    }
+   ],
+   "venue": "Earth Science Informatics",
+   "volume": "19",
+   "issue": "4",
+   "pages": null,
+   "article_number": "44",
+   "publisher": "Springer Science and Business Media LLC",
+   "doi": "10.1007/s12145-026-02099-6",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-04",
+   "type": "article",
+   "year": 2026,
+   "title": "Artificial Intelligence and Deep Learning in Medical and Assistive Technologies: Advances, Challenges, and Future Directions",
+   "authors": [
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    },
+    {
+     "given": "Fabrizio",
+     "family": "Stasolla",
+     "me": false
+    }
+   ],
+   "venue": "Technologies",
+   "volume": "14",
+   "issue": "8",
+   "pages": null,
+   "article_number": "475",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/technologies14080475",
+   "status": "published",
+   "verified": "Crossref",
+   "label": "Editorial"
+  },
+  {
+   "id": "art-05",
+   "type": "article",
+   "year": 2026,
+   "title": "Enhancing heart sound signal denoising: unveiling the impact of time-frequency transformation in U-Net performance",
+   "authors": [
+    {
+     "given": "Cristóbal",
+     "family": "González-Rodríguez",
+     "me": false
+    },
+    {
+     "given": "Eloísa",
+     "family": "García-Canseco",
+     "me": false
+    },
+    {
+     "given": "Miguel A.",
+     "family": "Alonso-Arévalo",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    },
+    {
+     "given": "E. Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    }
+   ],
+   "venue": "Signal, Image and Video Processing",
+   "volume": "20",
+   "issue": "7",
+   "pages": null,
+   "article_number": "399",
+   "publisher": "Springer Science and Business Media LLC",
+   "doi": "10.1007/s11760-026-05421-3",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-06",
+   "type": "article",
+   "year": 2025,
+   "title": "Recent Advances in Early Earthquake Magnitude Estimation by Using Machine Learning Algorithms: A Systematic Review",
+   "authors": [
+    {
+     "given": "Andrés",
+     "family": "Navarro-Rodríguez",
+     "me": false
+    },
+    {
+     "given": "Oscar Alberto",
+     "family": "Castro-Artola",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrian",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Ulises Jesús",
+     "family": "Tamayo-Pérez",
+     "me": false
+    },
+    {
+     "given": "César Alberto",
+     "family": "López-Mercado",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    }
+   ],
+   "venue": "Applied Sciences",
+   "volume": "15",
+   "issue": "7",
+   "pages": null,
+   "article_number": "3492",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/app15073492",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-07",
+   "type": "article",
+   "year": 2025,
+   "title": "Mindfulness-Based Intervention Effects on EEG and Executive Functions: A Systematic Review",
+   "authors": [
+    {
+     "given": "Gilberto",
+     "family": "Galindo-Aldana",
+     "me": false
+    },
+    {
+     "given": "Luis Arturo",
+     "family": "Montoya-Rivera",
+     "me": false
+    },
+    {
+     "given": "Jose Jaime",
+     "family": "Esqueda-Elizondo",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    },
+    {
+     "given": "Enrique Efren",
+     "family": "Garcia-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Alfredo",
+     "family": "Padilla-Lopez",
+     "me": false
+    },
+    {
+     "given": "Tara G.",
+     "family": "Bautista",
+     "me": false
+    },
+    {
+     "given": "Cynthia",
+     "family": "Torres-González",
+     "me": false
+    }
+   ],
+   "venue": "Brain Sciences",
+   "volume": "15",
+   "issue": "3",
+   "pages": null,
+   "article_number": "324",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/brainsci15030324",
+   "status": "published",
+   "verified": "Crossref",
+   "related": [
+    "pp-2025-mindfulness"
+   ]
+  },
+  {
+   "id": "art-08",
+   "type": "article",
+   "year": 2025,
+   "title": "Deep Learning-Based System for Early Symptoms Recognition of Grapevine Red Blotch and Leafroll Diseases and Its Implementation on Edge Computing Devices",
+   "authors": [
+    {
+     "given": "Carolina",
+     "family": "Lazcano-García",
+     "me": false
+    },
+    {
+     "given": "Karen Guadalupe",
+     "family": "García-Resendiz",
+     "me": false
+    },
+    {
+     "given": "Jimena",
+     "family": "Carrillo-Tripp",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "David",
+     "family": "Cervantes-Vasquez",
+     "me": false
+    },
+    {
+     "given": "Jorge",
+     "family": "Galarza-Falfan",
+     "me": false
+    },
+    {
+     "given": "Cesar Alberto",
+     "family": "Lopez-Mercado",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrian",
+     "family": "Aguirre-Castro",
+     "me": false
+    }
+   ],
+   "venue": "AgriEngineering",
+   "volume": "7",
+   "issue": "3",
+   "pages": null,
+   "article_number": "63",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/agriengineering7030063",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-09",
+   "type": "article",
+   "year": 2025,
+   "title": "Enhanced Multi-Class Brain Tumor Classification in MRI Using Pre-Trained CNNs and Transformer Architectures",
+   "authors": [
+    {
+     "given": "Marco Antonio",
+     "family": "Gómez-Guzmán",
+     "me": false
+    },
+    {
+     "given": "Laura",
+     "family": "Jiménez-Beristain",
+     "me": false
+    },
+    {
+     "given": "Enrique Efren",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrian",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "José Jaime",
+     "family": "Esqueda-Elizondo",
+     "me": false
+    },
+    {
+     "given": "Edgar Rene",
+     "family": "Ramos-Acosta",
+     "me": false
+    },
+    {
+     "given": "Gilberto Manuel",
+     "family": "Galindo-Aldana",
+     "me": false
+    },
+    {
+     "given": "Cynthia",
+     "family": "Torres-Gonzalez",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    }
+   ],
+   "venue": "Technologies",
+   "volume": "13",
+   "issue": "9",
+   "pages": null,
+   "article_number": "379",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/technologies13090379",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-10",
+   "type": "article",
+   "year": 2025,
+   "title": "Machine Learning-Based Approaches for Early Detection and Risk Stratification of Deep Vein Thrombosis: A Systematic Review",
+   "authors": [
+    {
+     "given": "Andre Axel",
+     "family": "Cadena Zepeda",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrian",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Gilberto Manuel",
+     "family": "Galindo-Aldana",
+     "me": false
+    },
+    {
+     "given": "Reyes",
+     "family": "Juárez-Ramírez",
+     "me": false
+    },
+    {
+     "given": "Marco Antonio",
+     "family": "Gómez-Guzmán",
+     "me": false
+    },
+    {
+     "given": "Christian",
+     "family": "Raymond",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    }
+   ],
+   "venue": "Eng",
+   "volume": "6",
+   "issue": "9",
+   "pages": null,
+   "article_number": "243",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/eng6090243",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-11",
+   "type": "article",
+   "year": 2025,
+   "title": "Energy-Efficient Last-Mile Logistics Using Resistive Grid Path Planning Methodology (RGPPM)",
+   "authors": [
+    {
+     "given": "Carlos",
+     "family": "Hernández-Mejía",
+     "me": false
+    },
+    {
+     "given": "Delia",
+     "family": "Torres-Muñoz",
+     "me": false
+    },
+    {
+     "given": "Carolina",
+     "family": "Maldonado-Méndez",
+     "me": false
+    },
+    {
+     "given": "Sergio",
+     "family": "Hernández-Méndez",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Carlos",
+     "family": "Sánchez-López",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    }
+   ],
+   "venue": "Energies",
+   "volume": "18",
+   "issue": "21",
+   "pages": null,
+   "article_number": "5625",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/en18215625",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-12",
+   "type": "article",
+   "year": 2025,
+   "title": "Toward Smarter Orthopedic Care: Classifying Plantar Footprints from RGB Images Using Vision Transformers and CNNs",
+   "authors": [
+    {
+     "given": "Lidia Yolanda",
+     "family": "Ramírez-Rios",
+     "me": false
+    },
+    {
+     "given": "Jesús Everardo",
+     "family": "Olguín-Tiznado",
+     "me": false
+    },
+    {
+     "given": "Edgar Rene",
+     "family": "Ramos-Acosta",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    },
+    {
+     "given": "Julio César",
+     "family": "Cano-Gutiérrez",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Claudia",
+     "family": "Camargo-Wilson",
+     "me": false
+    }
+   ],
+   "venue": "Journal of Imaging",
+   "volume": "11",
+   "issue": "11",
+   "pages": null,
+   "article_number": "414",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/jimaging11110414",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-13",
+   "type": "article",
+   "year": 2024,
+   "title": "A novel system for the classification of zinc-plated components by benchmarking deep neural networks",
+   "authors": [
+    {
+     "given": "Edgar Rene",
+     "family": "Ramos-Acosta",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Ulises Jesús",
+     "family": "Tamayo-Pérez",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrián",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Lidia Yolanda",
+     "family": "Ramírez-Rios",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    }
+   ],
+   "venue": "Expert Systems with Applications",
+   "volume": "255",
+   "issue": null,
+   "pages": null,
+   "article_number": "124866",
+   "publisher": "Elsevier BV",
+   "doi": "10.1016/j.eswa.2024.124866",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-14",
+   "type": "article",
+   "year": 2024,
+   "title": "Analysis of immunotherapeutic control of the TH1/TH2 imbalance in a 4D melanoma model applying the invariant compact set localization method",
+   "authors": [
+    {
+     "given": "Marco Antonio",
+     "family": "Gómez-Guzmán",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Kenia",
+     "family": "Palomino-Vizcaino",
+     "me": false
+    },
+    {
+     "given": "José Jaime",
+     "family": "Esqueda-Elizondo",
+     "me": false
+    },
+    {
+     "given": "Enrique Efren",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Ulises Jesús",
+     "family": "Tamayo-Perez",
+     "me": false
+    },
+    {
+     "given": "Laura",
+     "family": "Jiménez-Beristáin",
+     "me": false
+    }
+   ],
+   "venue": "Alexandria Engineering Journal",
+   "volume": "107",
+   "issue": null,
+   "pages": "838–850",
+   "article_number": null,
+   "publisher": "Elsevier BV",
+   "doi": "10.1016/j.aej.2024.09.023",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-15",
+   "type": "article",
+   "year": 2024,
+   "title": "Enhancing Security of Telemedicine Data: A Multi-Scroll Chaotic System for ECG Signal Encryption and RF Transmission",
+   "authors": [
+    {
+     "given": "José Ricardo",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "Ramón",
+     "family": "Ramírez-Villalobos",
+     "me": false
+    },
+    {
+     "given": "Catherine",
+     "family": "Ramirez-Ubieta",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    }
+   ],
+   "venue": "Entropy",
+   "volume": "26",
+   "issue": "9",
+   "pages": null,
+   "article_number": "787",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/e26090787",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-16",
+   "type": "article",
+   "year": 2024,
+   "title": "Path Planning for Autonomous Mobile Robot Using Intelligent Algorithms",
+   "authors": [
+    {
+     "given": "Jorge",
+     "family": "Galarza-Falfan",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrian",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Ulises Jesús",
+     "family": "Tamayo-Pérez",
+     "me": false
+    },
+    {
+     "given": "José Ricardo",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "Carlos",
+     "family": "Hernández-Mejía",
+     "me": false
+    },
+    {
+     "given": "Susana",
+     "family": "Borrego-Dominguez",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    }
+   ],
+   "venue": "Technologies",
+   "volume": "12",
+   "issue": "6",
+   "pages": null,
+   "article_number": "82",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/technologies12060082",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-17",
+   "type": "article",
+   "year": 2023,
+   "title": "Classifying Brain Tumors on Magnetic Resonance Imaging by Using Convolutional Neural Networks",
+   "authors": [
+    {
+     "given": "Marco Antonio",
+     "family": "Gómez-Guzmán",
+     "me": false
+    },
+    {
+     "given": "Laura",
+     "family": "Jiménez-Beristaín",
+     "me": false
+    },
+    {
+     "given": "Enrique Efren",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Ulises Jesús",
+     "family": "Tamayo-Perez",
+     "me": false
+    },
+    {
+     "given": "José Jaime",
+     "family": "Esqueda-Elizondo",
+     "me": false
+    },
+    {
+     "given": "Kenia",
+     "family": "Palomino-Vizcaino",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Electronics",
+   "volume": "12",
+   "issue": "4",
+   "pages": null,
+   "article_number": "955",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/electronics12040955",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-18",
+   "type": "article",
+   "year": 2023,
+   "title": "Real-time medical image encryption for H-IoT applications using improved sequences from chaotic maps",
+   "authors": [
+    {
+     "given": "D.A.",
+     "family": "Trujillo-Toledo",
+     "me": false
+    },
+    {
+     "given": "O.R.",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "E.E.",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "J.J.",
+     "family": "Esqueda-Elizondo",
+     "me": false
+    },
+    {
+     "given": "J.R.",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "U.J.",
+     "family": "Tamayo-Pérez",
+     "me": false
+    },
+    {
+     "given": "O.A.",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Integration",
+   "volume": "90",
+   "issue": null,
+   "pages": "131–145",
+   "article_number": null,
+   "publisher": "Elsevier BV",
+   "doi": "10.1016/j.vlsi.2023.01.008",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-19",
+   "type": "article",
+   "year": 2023,
+   "title": "Desing of grating couplers for submicron optical waveguides",
+   "authors": [
+    {
+     "given": "Paola",
+     "family": "Góngora Lugo",
+     "me": false
+    },
+    {
+     "given": "E. E.",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "E. I.",
+     "family": "Chaikina",
+     "me": false
+    },
+    {
+     "given": "Heriberto",
+     "family": "Márquez Becerra",
+     "me": false
+    }
+   ],
+   "venue": "Revista Mexicana de Física",
+   "volume": "69",
+   "issue": "2 Mar-Apr",
+   "pages": null,
+   "article_number": null,
+   "publisher": "Sociedad Mexicana de Fisica A C",
+   "doi": "10.31349/revmexfis.69.021303",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-20",
+   "type": "article",
+   "year": 2022,
+   "title": "Evaluation of underwater image enhancement algorithms based on Retinex and its implementation on embedded systems",
+   "authors": [
+    {
+     "given": "O.A.",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "E.E.",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "O.R.",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    },
+    {
+     "given": "D.",
+     "family": "López-Mancilla",
+     "me": false
+    },
+    {
+     "given": "J.R.",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "J.E.",
+     "family": "Olguín-Tiznado",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Neurocomputing",
+   "volume": "494",
+   "issue": null,
+   "pages": "148–159",
+   "article_number": null,
+   "publisher": "Elsevier BV",
+   "doi": "10.1016/j.neucom.2022.04.074",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-21",
+   "type": "article",
+   "year": 2022,
+   "title": "Attention Measurement of an Autism Spectrum Disorder User Using EEG Signals: A Case Study",
+   "authors": [
+    {
+     "given": "José Jaime",
+     "family": "Esqueda-Elizondo",
+     "me": false
+    },
+    {
+     "given": "Reyes",
+     "family": "Juárez-Ramírez",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Gilberto Manuel",
+     "family": "Galindo-Aldana",
+     "me": false
+    },
+    {
+     "given": "Laura",
+     "family": "Jiménez-Beristáin",
+     "me": false
+    },
+    {
+     "given": "Alejandra",
+     "family": "Serrano-Trujillo",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Mathematical and Computational Applications",
+   "volume": "27",
+   "issue": "2",
+   "pages": null,
+   "article_number": "21",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/mca27020021",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-22",
+   "type": "article",
+   "year": 2022,
+   "title": "Traffic Flow Prediction for Smart Traffic Lights Using Machine Learning Algorithms",
+   "authors": [
+    {
+     "given": "Alfonso",
+     "family": "Navarro-Espinoza",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    },
+    {
+     "given": "Didier",
+     "family": "López-Mancilla",
+     "me": false
+    },
+    {
+     "given": "Carlos",
+     "family": "Hernández-Mejía",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Technologies",
+   "volume": "10",
+   "issue": "1",
+   "pages": null,
+   "article_number": "5",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/technologies10010005",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-23",
+   "type": "article",
+   "year": 2022,
+   "title": "A Crest Factor Reduction Technique for LTE Signals with Target Relaxation in Power Amplifier Linearization",
+   "authors": [
+    {
+     "given": "José Ricardo",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "Jose Alejandro",
+     "family": "Galaviz-Aguilar",
+     "me": false
+    },
+    {
+     "given": "Cesar",
+     "family": "Vargas-Rosales",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Leonardo",
+     "family": "Flores-Hernández",
+     "me": false
+    }
+   ],
+   "venue": "Sensors",
+   "volume": "22",
+   "issue": "3",
+   "pages": null,
+   "article_number": "1176",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/s22031176",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-24",
+   "type": "article",
+   "year": 2022,
+   "title": "Evaluation of Machine Learning Algorithms for Classification of EEG Signals",
+   "authors": [
+    {
+     "given": "Francisco Javier",
+     "family": "Ramírez-Arias",
+     "me": false
+    },
+    {
+     "given": "Enrique Efren",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    },
+    {
+     "given": "Juan Miguel",
+     "family": "Colores-Vargas",
+     "me": false
+    },
+    {
+     "given": "Eloisa",
+     "family": "García-Canseco",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Gilberto Manuel",
+     "family": "Galindo-Aldana",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Technologies",
+   "volume": "10",
+   "issue": "4",
+   "pages": null,
+   "article_number": "79",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/technologies10040079",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-25",
+   "type": "article",
+   "year": 2022,
+   "title": "Evaluation of Machine Learning Algorithms for Early Diagnosis of Deep Venous Thrombosis",
+   "authors": [
+    {
+     "given": "Eduardo Enrique",
+     "family": "Contreras-Luján",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    },
+    {
+     "given": "Didier",
+     "family": "López-Mancilla",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Mathematical and Computational Applications",
+   "volume": "27",
+   "issue": "2",
+   "pages": null,
+   "article_number": "24",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/mca27020024",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-26",
+   "type": "article",
+   "year": 2022,
+   "title": "A Novel Green Logistics Technique for Planning Merchandise Deliveries: A Case Study",
+   "authors": [
+    {
+     "given": "Carlos",
+     "family": "Hernández-Mejía",
+     "me": false
+    },
+    {
+     "given": "Delia",
+     "family": "Torres-Muñoz",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Carlos",
+     "family": "Sánchez-López",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    }
+   ],
+   "venue": "Logistics",
+   "volume": "6",
+   "issue": "3",
+   "pages": null,
+   "article_number": "59",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/logistics6030059",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-27",
+   "type": "article",
+   "year": 2023,
+   "title": "Exploring Robotical Implementation for Planning of Collision-free Logistical Paths Using RGPPM Algorithm",
+   "authors": [
+    {
+     "given": "Carlos",
+     "family": "Hernández-Mejía",
+     "me": false
+    },
+    {
+     "given": "Delia",
+     "family": "Torres-Muñoz",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Carlos",
+     "family": "Sánchez-López",
+     "me": false
+    }
+   ],
+   "venue": "Iranian Journal of Science and Technology, Transactions of Electrical Engineering",
+   "volume": "47",
+   "issue": "1",
+   "pages": "221–231",
+   "article_number": null,
+   "publisher": "Springer Science and Business Media LLC",
+   "doi": "10.1007/s40998-022-00531-3",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-28",
+   "type": "article",
+   "year": 2021,
+   "title": "Development of a Portable, Reliable and Low-Cost Electrical Impedance Tomography System Using an Embedded System",
+   "authors": [
+    {
+     "given": "Francisco",
+     "family": "Zamora-Arellano",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Jesús Everardo",
+     "family": "Olguín-Tiznado",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Didier",
+     "family": "López-Mancilla",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    }
+   ],
+   "venue": "Electronics",
+   "volume": "10",
+   "issue": "1",
+   "pages": null,
+   "article_number": "15",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/electronics10010015",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-29",
+   "type": "article",
+   "year": 2021,
+   "title": "Design of a Modular Plantar Orthosis System through the Application of TRIZ Methodology Tools",
+   "authors": [
+    {
+     "given": "Lidia Yolanda",
+     "family": "Ramírez-Rios",
+     "me": false
+    },
+    {
+     "given": "Claudia",
+     "family": "Camargo-Wilson",
+     "me": false
+    },
+    {
+     "given": "Jesús Everardo",
+     "family": "Olguín-Tiznado",
+     "me": false
+    },
+    {
+     "given": "Juan Andrés",
+     "family": "López-Barreras",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Jorge Luis",
+     "family": "García-Alcaraz",
+     "me": false
+    }
+   ],
+   "venue": "Applied Sciences",
+   "volume": "11",
+   "issue": "5",
+   "pages": null,
+   "article_number": "2051",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/app11052051",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-30",
+   "type": "article",
+   "year": 2021,
+   "title": "A Weighted Linearization Method for Highly RF-PA Nonlinear Behavior Based on the Compression Region Identification",
+   "authors": [
+    {
+     "given": "Jose Alejandro",
+     "family": "Galaviz-Aguilar",
+     "me": false
+    },
+    {
+     "given": "Cesar",
+     "family": "Vargas-Rosales",
+     "me": false
+    },
+    {
+     "given": "José Ricardo",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "Yasmany",
+     "family": "Martínez-Reyes",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Yuma",
+     "family": "Sandoval-Ibarra",
+     "me": false
+    },
+    {
+     "given": "José Cruz",
+     "family": "Núñez-Pérez",
+     "me": false
+    }
+   ],
+   "venue": "Applied Sciences",
+   "volume": "11",
+   "issue": "7",
+   "pages": null,
+   "article_number": "2942",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/app11072942",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-31",
+   "type": "article",
+   "year": 2021,
+   "title": "Real-time RGB image encryption for IoT applications using enhanced sequences from chaotic maps",
+   "authors": [
+    {
+     "given": "D.A.",
+     "family": "Trujillo-Toledo",
+     "me": false
+    },
+    {
+     "given": "O.R.",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "E.E.",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    },
+    {
+     "given": "D.",
+     "family": "López-Mancilla",
+     "me": false
+    },
+    {
+     "given": "O.",
+     "family": "Guillén-Fernández",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Chaos, Solitons & Fractals",
+   "volume": "153",
+   "issue": null,
+   "pages": null,
+   "article_number": "111506",
+   "publisher": "Elsevier BV",
+   "doi": "10.1016/j.chaos.2021.111506",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-32",
+   "type": "article",
+   "year": 2020,
+   "title": "Randomness improvement of chaotic maps for image encryption in a wireless communication scheme using PIC-microcontroller via Zigbee channels",
+   "authors": [
+    {
+     "given": "E.E.",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "O.R.",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "J.R.",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    }
+   ],
+   "venue": "Chaos, Solitons & Fractals",
+   "volume": "133",
+   "issue": null,
+   "pages": null,
+   "article_number": "109646",
+   "publisher": "Elsevier BV",
+   "doi": "10.1016/j.chaos.2020.109646",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-33",
+   "type": "article",
+   "year": 2020,
+   "title": "An Artificial Neural Network Approach and a Data Augmentation Algorithm to Systematize the Diagnosis of Deep-Vein Thrombosis by Using Wells’ Criteria",
+   "authors": [
+    {
+     "given": "María Berenice",
+     "family": "Fong-Mata",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "David Abdel",
+     "family": "Mejía-Medina",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Luis Jesús",
+     "family": "Villarreal-Gómez",
+     "me": false
+    },
+    {
+     "given": "Francisco",
+     "family": "Zamora-Arellano",
+     "me": false
+    },
+    {
+     "given": "Didier",
+     "family": "López-Mancilla",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Electronics",
+   "volume": "9",
+   "issue": "11",
+   "pages": null,
+   "article_number": "1810",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/electronics9111810",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-34",
+   "type": "article",
+   "year": 2019,
+   "title": "Implementing a chaotic cryptosystem in a 64-bit embedded system by using multiple-precision arithmetic",
+   "authors": [
+    {
+     "given": "A.",
+     "family": "Flores-Vergara",
+     "me": false
+    },
+    {
+     "given": "E. E.",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "O. R.",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Rodríguez-Orozco",
+     "me": false
+    },
+    {
+     "given": "J. R.",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    }
+   ],
+   "venue": "Nonlinear Dynamics",
+   "volume": "96",
+   "issue": "1",
+   "pages": "497–516",
+   "article_number": null,
+   "publisher": "Springer Science and Business Media LLC",
+   "doi": "10.1007/s11071-019-04802-3",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-35",
+   "type": "article",
+   "year": 2019,
+   "title": "Implementing a Chaotic Cryptosystem by Performing Parallel Computing on Embedded Systems with Multiprocessors",
+   "authors": [
+    {
+     "given": "Abraham",
+     "family": "Flores-Vergara",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efren",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Eduardo",
+     "family": "Rodríguez-Orozco",
+     "me": false
+    },
+    {
+     "given": "Juan Miguel",
+     "family": "Hernández-Ontiveros",
+     "me": false
+    },
+    {
+     "given": "José Ricardo",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    }
+   ],
+   "venue": "Entropy",
+   "volume": "21",
+   "issue": "3",
+   "pages": null,
+   "article_number": "268",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/e21030268",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-36",
+   "type": "article",
+   "year": 2019,
+   "title": "Design and Construction of an ROV for Underwater Exploration",
+   "authors": [
+    {
+     "given": "Oscar Adrian",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Jesús Everardo",
+     "family": "Olguín-Tiznado",
+     "me": false
+    },
+    {
+     "given": "José Ricardo",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    }
+   ],
+   "venue": "Sensors",
+   "volume": "19",
+   "issue": "24",
+   "pages": null,
+   "article_number": "5387",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/s19245387",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-37",
+   "type": "article",
+   "year": 2018,
+   "title": "Development and implementation of a fish counter by using an embedded system",
+   "authors": [
+    {
+     "given": "J.M.",
+     "family": "Hernández-Ontiveros",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "E.E.",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "O.R.",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "S.O.",
+     "family": "Infante-Prieto",
+     "me": false
+    },
+    {
+     "given": "J.R.",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    }
+   ],
+   "venue": "Computers and Electronics in Agriculture",
+   "volume": "145",
+   "issue": null,
+   "pages": "53–62",
+   "article_number": null,
+   "publisher": "Elsevier BV",
+   "doi": "10.1016/j.compag.2017.12.023",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-38",
+   "type": "article",
+   "year": 2018,
+   "title": "FPGA-based Chaotic Cryptosystem by Using Voice Recognition as Access Key",
+   "authors": [
+    {
+     "given": "Eduardo",
+     "family": "Rodríguez-Orozco",
+     "me": false
+    },
+    {
+     "given": "Enrique Efren",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Abraham",
+     "family": "Flores-Vergara",
+     "me": false
+    },
+    {
+     "given": "Jose Ricardo",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    }
+   ],
+   "venue": "Electronics",
+   "volume": "7",
+   "issue": "12",
+   "pages": null,
+   "article_number": "414",
+   "publisher": "MDPI AG",
+   "doi": "10.3390/electronics7120414",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-39",
+   "type": "article",
+   "year": 2010,
+   "title": "802.15.4 MAC protocol applied to efficient energy consumption",
+   "authors": [
+    {
+     "given": "Juan Miguel",
+     "family": "Hernández Ontiveros",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza González",
+     "me": true
+    },
+    {
+     "given": "Jesús Everardo",
+     "family": "Olguín Tiznado",
+     "me": false
+    },
+    {
+     "given": "Jana Juracy",
+     "family": "Soares López",
+     "me": false
+    },
+    {
+     "given": "Pablo Andrés",
+     "family": "Rousseau Figueroa",
+     "me": false
+    },
+    {
+     "given": "Claudia",
+     "family": "Camargo Wilson",
+     "me": false
+    }
+   ],
+   "venue": "Ingeniería e Investigación",
+   "volume": "30",
+   "issue": "1",
+   "pages": "71–74",
+   "article_number": null,
+   "publisher": "Universidad Nacional de Colombia",
+   "doi": "10.15446/ing.investig.v30n1.15210",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-40",
+   "type": "article",
+   "year": 2010,
+   "title": "Developing and integrating a computer-based AM/FM radio station",
+   "authors": [
+    {
+     "given": "Everardo",
+     "family": "Inzunza González",
+     "me": true
+    },
+    {
+     "given": "Jesús Everardo",
+     "family": "Olguín Tiznado",
+     "me": false
+    },
+    {
+     "given": "Juracy",
+     "family": "Soares López",
+     "me": false
+    },
+    {
+     "given": "Liliana",
+     "family": "Cardoza Avendaño",
+     "me": false
+    },
+    {
+     "given": "Claudia",
+     "family": "Camargo Wilson",
+     "me": false
+    },
+    {
+     "given": "Juan Miguel",
+     "family": "Hernández Ontiveros",
+     "me": false
+    }
+   ],
+   "venue": "Ingeniería e Investigación",
+   "volume": "30",
+   "issue": "2",
+   "pages": "78–86",
+   "article_number": null,
+   "publisher": "Universidad Nacional de Colombia",
+   "doi": "10.15446/ing.investig.v30n2.15736",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-41",
+   "type": "article",
+   "year": 2010,
+   "title": "Chaotic Synchronization in Star Coupled Networks of Three- Dimensional Cellular Neural Networks and Its Application in Communications",
+   "authors": [
+    {
+     "given": "H.",
+     "family": "Serrano-Guerrero",
+     "me": false
+    },
+    {
+     "given": "C.",
+     "family": "Cruz-Hernández",
+     "me": false
+    },
+    {
+     "given": "R.M.",
+     "family": "López-Gutiérrez",
+     "me": false
+    },
+    {
+     "given": "C.",
+     "family": "Posadas-Castillo",
+     "me": false
+    },
+    {
+     "given": "Ε.",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "International Journal of Nonlinear Sciences and Numerical Simulation",
+   "volume": "11",
+   "issue": "8",
+   "pages": null,
+   "article_number": null,
+   "publisher": "Walter de Gruyter GmbH",
+   "doi": "10.1515/ijnsns.2010.11.8.571",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "art-ndst-2013",
+   "type": "article",
+   "year": 2013,
+   "title": "Double hyperchaotic encryption for security in biometric systems",
+   "authors": [
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "César",
+     "family": "Cruz-Hernández",
+     "me": false
+    }
+   ],
+   "venue": "Nonlinear Dynamics and Systems Theory",
+   "volume": "13",
+   "issue": "1",
+   "pages": "55–68",
+   "article_number": null,
+   "publisher": null,
+   "doi": null,
+   "status": "published",
+   "verified": "Publisher PDF",
+   "url": "http://www.e-ndst.kiev.ua/v13n1/5(42)a.pdf"
+  },
+  {
+   "id": "book-2024",
+   "type": "book",
+   "year": 2024,
+   "title": "Machine Learning for Complex and Unmanned Systems",
+   "venue": null,
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "CRC Press (Taylor & Francis)",
+   "doi": "10.1201/9781003385615",
+   "status": "published",
+   "verified": "Crossref",
+   "authors": [],
+   "editors": [
+    {
+     "given": "José",
+     "family": "Martínez-Carranza",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    }
+   ],
+   "isbn": "978-1-032-47224-9"
+  },
+  {
+   "id": "ch-2026-tinyml",
+   "type": "chapter",
+   "year": 2026,
+   "title": "TinyML-Oriented Workflow for VOC Classification: Breath-Acetone Case Study with Ethanol and Ammonia as Interferents",
+   "authors": [
+    {
+     "given": "Xenia Azareth",
+     "family": "Ayón-Gómez",
+     "me": false
+    },
+    {
+     "given": "Ulises Jesús",
+     "family": "Tamayo-Pérez",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrián",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Eunice",
+     "family": "Vargas-Viveros",
+     "me": false
+    },
+    {
+     "given": "José Ricardo",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    }
+   ],
+   "venue": "Complex Systems and Their Applications",
+   "volume": null,
+   "issue": null,
+   "pages": "341–358",
+   "article_number": null,
+   "publisher": "Springer Nature Switzerland",
+   "doi": "10.1007/978-3-032-25152-7_22",
+   "status": "published",
+   "verified": "Crossref",
+   "editors": [
+    {
+     "given": "Ulises",
+     "family": "Uriostegui-Legorreta",
+     "me": false
+    },
+    {
+     "given": "Eric",
+     "family": "Campos-Canton",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    },
+    {
+     "given": "Guillermo",
+     "family": "Huerta-Cuellar",
+     "me": false
+    }
+   ],
+   "isbn": "9783032251510"
+  },
+  {
+   "id": "ch-2025-drone",
+   "type": "chapter",
+   "year": 2025,
+   "title": "Reinforcement Learning for Drone Path Planning: A Bibliometric Analysis",
+   "authors": [
+    {
+     "given": "Susana",
+     "family": "Borrego-Domínguez",
+     "me": false
+    },
+    {
+     "given": "Laura",
+     "family": "Jiménez-Beristáin",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "José Jaime",
+     "family": "Esqueda-Elizondo",
+     "me": false
+    },
+    {
+     "given": "César",
+     "family": "Ortega-Corral",
+     "me": false
+    },
+    {
+     "given": "Ulises Jesús",
+     "family": "Tamayo-Pérez",
+     "me": false
+    },
+    {
+     "given": "Diego Armando",
+     "family": "Trujillo-Toledo",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrián",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "César Alberto",
+     "family": "López-Mercado",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Complex Systems and Their Applications",
+   "volume": null,
+   "issue": null,
+   "pages": "115–138",
+   "article_number": null,
+   "publisher": "Springer Nature Switzerland",
+   "doi": "10.1007/978-3-031-92314-2_6",
+   "status": "published",
+   "verified": "Crossref",
+   "editors": [
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    },
+    {
+     "given": "Eric",
+     "family": "Campos-Canton",
+     "me": false
+    },
+    {
+     "given": "Hector Eduardo",
+     "family": "Gilardi-Velazquez",
+     "me": false
+    },
+    {
+     "given": "Guillermo",
+     "family": "Huerta-Cuellar",
+     "me": false
+    }
+   ],
+   "isbn": "9783031923135"
+  },
+  {
+   "id": "ch-2024-eeg",
+   "type": "chapter",
+   "year": 2024,
+   "title": "EEG-Based Motor and Imaginary Movement Classification: ML Approach",
+   "authors": [
+    {
+     "given": "Francisco Javier",
+     "family": "Ramírez-Arias",
+     "me": false
+    },
+    {
+     "given": "Juan Miguel",
+     "family": "Colores-Vargas",
+     "me": false
+    },
+    {
+     "given": "Jován Oseas",
+     "family": "Mérida-Rubio",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Machine Learning for Complex and Unmanned Systems",
+   "volume": null,
+   "issue": null,
+   "pages": "295–316",
+   "article_number": null,
+   "publisher": "CRC Press (Taylor & Francis)",
+   "doi": "10.1201/9781003385615-16",
+   "status": "published",
+   "verified": "Crossref",
+   "editors": [
+    {
+     "given": "José",
+     "family": "Martínez-Carranza",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    }
+   ],
+   "isbn": "9781003385615"
+  },
+  {
+   "id": "ch-2024-fish",
+   "type": "chapter",
+   "year": 2024,
+   "title": "Classifying Ornamental Fish Using Deep Learning Algorithms and Edge Computing Devices",
+   "authors": [
+    {
+     "given": "O. A.",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "O. R.",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "U. J.",
+     "family": "Tamayo-Pérez",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "D. A.",
+     "family": "Trujillo-Toledo",
+     "me": false
+    }
+   ],
+   "venue": "Machine Learning for Complex and Unmanned Systems",
+   "volume": null,
+   "issue": null,
+   "pages": "34–56",
+   "article_number": null,
+   "publisher": "CRC Press (Taylor & Francis)",
+   "doi": "10.1201/9781003385615-3",
+   "status": "published",
+   "verified": "Crossref",
+   "editors": [
+    {
+     "given": "José",
+     "family": "Martínez-Carranza",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Esteban",
+     "family": "Tlelo-Cuautle",
+     "me": false
+    }
+   ],
+   "isbn": "9781003385615"
+  },
+  {
+   "id": "ch-2019-spsa",
+   "type": "chapter",
+   "year": 2019,
+   "title": "Evaluation of the Succession Measures of the Simultaneous Perturbation Stochastic Approximation Algorithm for the Optimization of the Process Capability Index",
+   "authors": [
+    {
+     "given": "Juan Carlos",
+     "family": "Castillo-García",
+     "me": false
+    },
+    {
+     "given": "Jesús Everardo",
+     "family": "Olguín-Tiznado",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Claudia",
+     "family": "Camargo-Wilson",
+     "me": false
+    },
+    {
+     "given": "Juan Andrés",
+     "family": "López-Barreras",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    }
+   ],
+   "venue": "Applied Decision-Making",
+   "volume": null,
+   "issue": null,
+   "pages": "1–26",
+   "article_number": null,
+   "publisher": "Springer International Publishing",
+   "doi": "10.1007/978-3-030-17985-4_1",
+   "status": "published",
+   "verified": "Crossref",
+   "editors": [
+    {
+     "given": "Mauricio A.",
+     "family": "Sanchez",
+     "me": false
+    },
+    {
+     "given": "Leocundo",
+     "family": "Aguilar",
+     "me": false
+    },
+    {
+     "given": "Manuel",
+     "family": "Castañón-Puga",
+     "me": false
+    },
+    {
+     "given": "Antonio",
+     "family": "Rodríguez",
+     "me": false
+    }
+   ],
+   "isbn": "9783030179847",
+   "series": "Studies in Systems, Decision and Control"
+  },
+  {
+   "id": "proc-2002-arftg",
+   "type": "proceedings",
+   "year": 2002,
+   "title": "Comparison of LRL(m), TRM, TRRM and TAR, calibration techniques using the straightforward de-embedding method",
+   "authors": [
+    {
+     "given": "J.A.",
+     "family": "Reynoso-Hernandez",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    }
+   ],
+   "venue": "59th ARFTG Conference Digest, Spring 2002",
+   "volume": null,
+   "issue": null,
+   "pages": "93–98",
+   "article_number": null,
+   "publisher": "IEEE",
+   "doi": "10.1109/arftgs.2002.1214686",
+   "status": "published",
+   "verified": "Crossref",
+   "editors": [],
+   "isbn": null
+  },
+  {
+   "id": "proc-2001-arftg",
+   "type": "proceedings",
+   "year": 2001,
+   "title": "A Straightforward De-Embedding Method for Devices Embedded in Test Fixtures",
+   "authors": [
+    {
+     "given": "J. A.",
+     "family": "Reynoso-Hernandez",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    }
+   ],
+   "venue": "57th ARFTG Conference Digest",
+   "volume": null,
+   "issue": null,
+   "pages": "1–5",
+   "article_number": null,
+   "publisher": "IEEE",
+   "doi": "10.1109/arftg.2001.327471",
+   "status": "published",
+   "verified": "Crossref",
+   "editors": [],
+   "isbn": null
+  },
+  {
+   "id": "proc-wit-wrm110551",
+   "type": "proceedings",
+   "year": 2011,
+   "title": "Preliminary results of landslide characteristics due to rainfall in the city of Ensenada, Baja California, Mexico using physical modelling",
+   "authors": [
+    {
+     "given": "J.",
+     "family": "Soares",
+     "me": false
+    },
+    {
+     "given": "C.",
+     "family": "Garcia",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza",
+     "me": true
+    },
+    {
+     "given": "J. M.",
+     "family": "Hernandez",
+     "me": false
+    },
+    {
+     "given": "J. E.",
+     "family": "Olguin",
+     "me": false
+    },
+    {
+     "given": "C.",
+     "family": "Camargo",
+     "me": false
+    },
+    {
+     "given": "P.",
+     "family": "Rousseau",
+     "me": false
+    },
+    {
+     "given": "C.",
+     "family": "Sandoval",
+     "me": false
+    },
+    {
+     "given": "A. G.",
+     "family": "Medina",
+     "me": false
+    }
+   ],
+   "venue": "WIT Transactions on Ecology and the Environment",
+   "volume": null,
+   "issue": null,
+   "pages": "623–630",
+   "article_number": null,
+   "publisher": "WIT Press",
+   "doi": "10.2495/wrm110551",
+   "status": "published",
+   "verified": "Crossref; listed in ORCID",
+   "editors": [],
+   "isbn": null
+  },
+  {
+   "id": "proc-wit-st100381",
+   "type": "proceedings",
+   "year": 2010,
+   "title": "The Baja 1000 car race and its impact on rural communities",
+   "authors": [
+    {
+     "given": "J.",
+     "family": "Soares",
+     "me": false
+    },
+    {
+     "given": "R.",
+     "family": "Blanco",
+     "me": false
+    },
+    {
+     "given": "J.",
+     "family": "Tapia",
+     "me": false
+    },
+    {
+     "given": "J. R.",
+     "family": "Lerma",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza",
+     "me": true
+    },
+    {
+     "given": "S.",
+     "family": "Avilés",
+     "me": false
+    }
+   ],
+   "venue": "WIT Transactions on Ecology and the Environment",
+   "volume": null,
+   "issue": null,
+   "pages": "449–454",
+   "article_number": null,
+   "publisher": "WIT Press",
+   "doi": "10.2495/st100381",
+   "status": "published",
+   "verified": "Crossref; listed in ORCID",
+   "editors": [],
+   "isbn": null
+  },
+  {
+   "id": "proc-wit-wrm090381",
+   "type": "proceedings",
+   "year": 2009,
+   "title": "Flooding tendencies for the city of Ensenada, Baja, California, Mexico, 1948–2004",
+   "authors": [
+    {
+     "given": "J.",
+     "family": "Soares",
+     "me": false
+    },
+    {
+     "given": "R.",
+     "family": "Blanco",
+     "me": false
+    },
+    {
+     "given": "C.",
+     "family": "García",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza",
+     "me": true
+    },
+    {
+     "given": "P.",
+     "family": "Rousseau",
+     "me": false
+    }
+   ],
+   "venue": "WIT Transactions on Ecology and the Environment",
+   "volume": null,
+   "issue": null,
+   "pages": "429–437",
+   "article_number": null,
+   "publisher": "WIT Press",
+   "doi": "10.2495/wrm090381",
+   "status": "published",
+   "verified": "Crossref; listed in ORCID",
+   "editors": [],
+   "isbn": null
+  },
+  {
+   "id": "proc-wit-st080321",
+   "type": "proceedings",
+   "year": 2008,
+   "title": "Slope instability along some sectors of the road to La Bufadora",
+   "authors": [
+    {
+     "given": "J.",
+     "family": "Soares",
+     "me": false
+    },
+    {
+     "given": "C.",
+     "family": "García",
+     "me": false
+    },
+    {
+     "given": "L.",
+     "family": "Mendoza",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza",
+     "me": true
+    },
+    {
+     "given": "F.",
+     "family": "Jáuregui",
+     "me": false
+    },
+    {
+     "given": "J.",
+     "family": "Obregón",
+     "me": false
+    }
+   ],
+   "venue": "WIT Transactions on Ecology and the Environment",
+   "volume": null,
+   "issue": null,
+   "pages": "329–336",
+   "article_number": null,
+   "publisher": "WIT Press",
+   "doi": "10.2495/st080321",
+   "status": "published",
+   "verified": "Crossref; listed in ORCID",
+   "editors": [],
+   "isbn": null
+  },
+  {
+   "id": "pp-2025-mindfulness",
+   "type": "preprint",
+   "year": 2025,
+   "title": "Mindfulness-Based Interventions Effects on EEG and Executive Functions: A Systematic Review",
+   "authors": [
+    {
+     "given": "Gilberto",
+     "family": "Galindo-Aldana",
+     "me": false
+    },
+    {
+     "given": "Luis Arturo",
+     "family": "Montoya-Rivera",
+     "me": false
+    },
+    {
+     "given": "José Jaime",
+     "family": "Esqueda Elizondo",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-Gonzalez",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Alfredo",
+     "family": "Padilla",
+     "me": false
+    },
+    {
+     "given": "Tara G.",
+     "family": "Bautista",
+     "me": false
+    },
+    {
+     "given": "Cynthia",
+     "family": "Torres-González",
+     "me": false
+    }
+   ],
+   "venue": "Preprints.org",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "MDPI AG",
+   "doi": "10.20944/preprints202503.0135.v1",
+   "status": "preprint",
+   "verified": "Crossref",
+   "related": [
+    "art-07"
+   ]
+  },
+  {
+   "id": "oth-2025-electro",
+   "type": "other",
+   "year": 2025,
+   "title": "Análisis de Habilidades de Cognición Social para Evaluar el Impacto de Intervenciones Psicológicas Mediante Procesamiento Digital de Señales EEG",
+   "authors": [
+    {
+     "given": "D.O.",
+     "family": "Roa-Rico",
+     "me": false
+    },
+    {
+     "given": "L.G.",
+     "family": "Trigueros-Triana",
+     "me": false
+    },
+    {
+     "given": "A.L.",
+     "family": "Mora-Navarro",
+     "me": false
+    },
+    {
+     "given": "Y.",
+     "family": "Castillo-Álvarez",
+     "me": false
+    },
+    {
+     "given": "L.",
+     "family": "Zamora-Rochín",
+     "me": false
+    },
+    {
+     "given": "G.M.",
+     "family": "Galindo-Aldana",
+     "me": false
+    },
+    {
+     "given": "C.",
+     "family": "Torres-González",
+     "me": false
+    },
+    {
+     "given": "L.A.",
+     "family": "Montoya-Rivera",
+     "me": false
+    },
+    {
+     "given": "E.",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "L.",
+     "family": "Jiménez-Beristáin",
+     "me": false
+    },
+    {
+     "given": "J.J.",
+     "family": "Esqueda-Elizondo",
+     "me": false
+    },
+    {
+     "given": "K.V.",
+     "family": "Luengas-Bernal",
+     "me": false
+    },
+    {
+     "given": "E.J.",
+     "family": "Oliveros-Martínez",
+     "me": false
+    }
+   ],
+   "venue": "Revista ELECTRO",
+   "volume": "47",
+   "issue": "1",
+   "pages": "308–313",
+   "article_number": null,
+   "publisher": "Tecnológico Nacional de México / Instituto Tecnológico de Chihuahua",
+   "doi": "10.67458/re2025a45308313",
+   "status": "published",
+   "verified": "Crossref; listed in ORCID"
+  },
+  {
+   "id": "oth-2023-padi",
+   "type": "other",
+   "year": 2023,
+   "title": "EMG signal transmission system under RF schemes",
+   "authors": [
+    {
+     "given": "José Ricardo",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "Ángel Humberto",
+     "family": "Corral-Domínguez",
+     "me": false
+    },
+    {
+     "given": "Manuel de Jesús",
+     "family": "García-Ortega",
+     "me": false
+    },
+    {
+     "given": "Andrés",
+     "family": "Calvillo-Téllez",
+     "me": false
+    },
+    {
+     "given": "Carlos",
+     "family": "Hurtado-Sánchez",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Pädi Boletín Científico de Ciencias Básicas e Ingenierías del ICBI",
+   "volume": "11",
+   "issue": null,
+   "pages": "277–282",
+   "article_number": null,
+   "publisher": "Universidad Autonoma del Estado de Hidalgo",
+   "doi": "10.29057/icbi.v11iespecial4.11413",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "oth-2020-recit",
+   "type": "other",
+   "year": 2020,
+   "title": "Trombosis venosa profunda en extremidades inferiores: revisión de las técnicas de diagnóstico actuales y su simbiosis con el aprendizaje automático para un diagnóstico oportuno",
+   "authors": [
+    {
+     "given": "Maria Berenice",
+     "family": "Fong-Mata",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "David Abdel",
+     "family": "Mejía Medina",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrián",
+     "family": "Morales Contreras",
+     "me": false
+    },
+    {
+     "given": "Antonio",
+     "family": "Gómez-Roa",
+     "me": false
+    }
+   ],
+   "venue": "Revista de Ciencias Tecnológicas",
+   "volume": "3",
+   "issue": "1",
+   "pages": "23–34",
+   "article_number": null,
+   "publisher": "Universidad Autónoma de Baja California",
+   "doi": "10.37636/recit.v312334",
+   "status": "published",
+   "verified": "Crossref"
+  },
+  {
+   "id": "oth-2019-pistas",
+   "type": "other",
+   "year": 2019,
+   "title": "Sistema de extracción de los coeficientes más óptimos para un modelo no lineal de un RF-PA",
+   "authors": [
+    {
+     "given": "Yasmany J.",
+     "family": "Martínez-Reyes",
+     "me": false
+    },
+    {
+     "given": "José Ricardo",
+     "family": "Cárdenas-Valdez",
+     "me": false
+    },
+    {
+     "given": "José Alejandro",
+     "family": "Galaviz-Aguilar",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Manuel de Jesús",
+     "family": "García-Ortega",
+     "me": false
+    },
+    {
+     "given": "José Cruz",
+     "family": "Núñez-Pérez",
+     "me": false
+    }
+   ],
+   "venue": "Pistas Educativas",
+   "volume": "41",
+   "issue": "134",
+   "pages": null,
+   "article_number": null,
+   "publisher": null,
+   "doi": null,
+   "status": "published",
+   "verified": "Publisher page (author order as published)",
+   "url": "https://pistaseducativas.celaya.tecnm.mx/index.php/pistas/article/view/2062"
+  },
+  {
+   "id": "oth-2018-aristas",
+   "type": "other",
+   "year": 2018,
+   "title": "Nuevo algoritmo para la contabilización de peces empleando momentos invariantes de Hu",
+   "authors": [
+    {
+     "given": "Juan Miguel",
+     "family": "Hernández-Ontiveros",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    }
+   ],
+   "venue": "Revista Aristas: Investigación Básica y Aplicada",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": null,
+   "doi": null,
+   "status": "published",
+   "verified": "CVU"
+  },
+  {
+   "id": "oth-2017-aristas",
+   "type": "other",
+   "year": 2017,
+   "title": "Encriptador caótico de imágenes empleando un sistema embebido",
+   "authors": [
+    {
+     "given": "Abraham",
+     "family": "Flores-Vergara",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Eduardo",
+     "family": "Rodríguez-Orozco",
+     "me": false
+    }
+   ],
+   "venue": "Revista Aristas: Investigación Básica y Aplicada",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": null,
+   "doi": null,
+   "status": "published",
+   "verified": "CVU"
+  },
+  {
+   "id": "oth-2014-difu",
+   "type": "other",
+   "year": 2014,
+   "title": "Image encryption based on improved Rössler hyperchaotic map",
+   "authors": [
+    {
+     "given": "Eduardo",
+     "family": "Rodríguez-Orozco",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    }
+   ],
+   "venue": "Difu100ci@",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": null,
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "url": "http://difu100cia.uaz.edu.mx/index.php/difuciencia/article/view/134"
+  },
+  {
+   "id": "oth-2013-waset",
+   "type": "other",
+   "year": 2013,
+   "title": "Application of steganography and chaotic encryption to send a safety text message by email",
+   "authors": [
+    {
+     "given": "Francisco",
+     "family": "Zamora-Arellano",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Abraham",
+     "family": "Flores-Vergara",
+     "me": false
+    }
+   ],
+   "venue": "World Academy of Science, Engineering and Technology",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": null,
+   "doi": null,
+   "status": "published",
+   "verified": "CVU"
+  },
+  {
+   "id": "oth-2010-waset",
+   "type": "other",
+   "year": 2010,
+   "title": "Encrypted audio communication based on synchronized unified chaotic systems",
+   "authors": [
+    {
+     "given": "César",
+     "family": "Cruz-Hernández",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Rosa Martha",
+     "family": "López-Gutiérrez",
+     "me": false
+    },
+    {
+     "given": "Hazael",
+     "family": "Serrano-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    }
+   ],
+   "venue": "International Journal of Electronics and Communication Engineering (WASET)",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": null,
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "url": "https://publications.waset.org/13690/pdf"
+  },
+  {
+   "id": "oth-2009-waset-a",
+   "type": "other",
+   "year": 2009,
+   "title": "Software to encrypt messages using public-key cryptography",
+   "authors": [
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "César",
+     "family": "Cruz-Hernández",
+     "me": false
+    },
+    {
+     "given": "Rosa Martha",
+     "family": "López-Gutiérrez",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Liliana",
+     "family": "Cardoza-Avendaño",
+     "me": false
+    },
+    {
+     "given": "Hazael",
+     "family": "Serrano-Guerrero",
+     "me": false
+    }
+   ],
+   "venue": "International Journal of Information and Communication Engineering (WASET)",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": null,
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "url": "https://publications.waset.org/11798/pdf"
+  },
+  {
+   "id": "oth-2009-waset-b",
+   "type": "other",
+   "year": 2009,
+   "title": "Secret communications using synchronized sixth-order Chua's circuits",
+   "authors": [
+    {
+     "given": "Rosa Martha",
+     "family": "López-Gutiérrez",
+     "me": false
+    },
+    {
+     "given": "Eduardo",
+     "family": "Rodríguez-Orozco",
+     "me": false
+    },
+    {
+     "given": "César",
+     "family": "Cruz-Hernández",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Cornelio",
+     "family": "Posadas-Castillo",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Liliana",
+     "family": "Cardoza-Avendaño",
+     "me": false
+    }
+   ],
+   "venue": "International Journal of Electronics and Communication Engineering (WASET)",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": null,
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "url": "https://publications.waset.org/15198/pdf"
+  },
+  {
+   "id": "oth-2009-waset-c",
+   "type": "other",
+   "year": 2009,
+   "title": "Encrypter information software using chaotic generators",
+   "authors": [
+    {
+     "given": "Liliana",
+     "family": "Cardoza-Avendaño",
+     "me": false
+    },
+    {
+     "given": "Rosa Martha",
+     "family": "López-Gutiérrez",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "César",
+     "family": "Cruz-Hernández",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Vasily V.",
+     "family": "Spirin",
+     "me": false
+    },
+    {
+     "given": "Hazael",
+     "family": "Serrano-Guerrero",
+     "me": false
+    }
+   ],
+   "venue": "International Journal of Computer and Information Engineering (WASET)",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": null,
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "url": "https://publications.waset.org/15852/pdf"
+  },
+  {
+   "id": "oth-2009-risci",
+   "type": "other",
+   "year": 2009,
+   "title": "Diseño de amplificadores de mediana potencia para aplicaciones WiMAX",
+   "authors": [
+    {
+     "given": "Liliana",
+     "family": "Cardoza-Avendaño",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Rosa Martha",
+     "family": "López-Gutiérrez",
+     "me": false
+    },
+    {
+     "given": "Jesús Everardo",
+     "family": "Olguín-Tiznado",
+     "me": false
+    },
+    {
+     "given": "Juan Miguel",
+     "family": "Hernández-Ontiveros",
+     "me": false
+    }
+   ],
+   "venue": "Revista Ibérica de Sistemas, Cibernética e Informática",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": null,
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "url": "https://www.iiisci.org/journal/pdv/risci/pdfs/GC906OD.pdf"
+  },
+  {
+   "id": "chu-01",
+   "type": "chapter_inst",
+   "year": 2022,
+   "title": "Planificación de trayectorias para robot móvil autónomo en entornos industriales usando algoritmos inteligentes",
+   "authors": [
+    {
+     "given": "Jorge",
+     "family": "Galarza-Falfán",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Ulises Jesús",
+     "family": "Tamayo-Pérez",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrián",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "26",
+   "isbn": "979-8-9855972-2-6"
+  },
+  {
+   "id": "chu-02",
+   "type": "chapter_inst",
+   "year": 2022,
+   "title": "Implementación de un sistema inteligente autónomo utilizando modelos de aprendizaje profundo",
+   "authors": [
+    {
+     "given": "Edgar René",
+     "family": "Ramos-Acosta",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Ulises Jesús",
+     "family": "Tamayo-Pérez",
+     "me": false
+    },
+    {
+     "given": "Oscar Adrián",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "25",
+   "isbn": "979-8-9855972-2-6"
+  },
+  {
+   "id": "chu-03",
+   "type": "chapter_inst",
+   "year": 2021,
+   "title": "Evaluación de la dinámica global en modelo de cáncer cerebral usando técnicas de aprendizaje automático y método iterativo de localización",
+   "authors": [
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Laura",
+     "family": "Jiménez-Beristáin",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "José Jaime",
+     "family": "Esqueda-Elizondo",
+     "me": false
+    },
+    {
+     "given": "Marco Antonio",
+     "family": "Gómez-Guzmán",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "16",
+   "isbn": "979-8-9855972-0-2"
+  },
+  {
+   "id": "chu-04",
+   "type": "chapter_inst",
+   "year": 2020,
+   "title": "Diseño y construcción de un controlador de semáforo inteligente con comunicación inalámbrica",
+   "authors": [
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Alfonso",
+     "family": "Navarro-Espinoza",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "12",
+   "isbn": "978-0-9998657-4-3"
+  },
+  {
+   "id": "chu-05",
+   "type": "chapter_inst",
+   "year": 2020,
+   "title": "Diseño de un sistema de monitoreo de procesos de manufactura mediante una red inalámbrica 6LoWPAN y RFID",
+   "authors": [
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Edgar René",
+     "family": "Ramos-Acosta",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "13",
+   "isbn": "978-0-9998657-4-3"
+  },
+  {
+   "id": "chu-06",
+   "type": "chapter_inst",
+   "year": 2020,
+   "title": "Desarrollo de un nuevo instrumento electrónico portable para el diagnóstico temprano de trombosis venosa profunda empleando redes neuronales artificiales",
+   "authors": [
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Eduardo Enrique",
+     "family": "Contreras-Luján",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "19",
+   "isbn": "978-0-9998657-4-3"
+  },
+  {
+   "id": "chu-07",
+   "type": "chapter_inst",
+   "year": 2019,
+   "title": "Evaluación de protocolos eficientes para aplicaciones en Internet de las cosas",
+   "authors": [
+    {
+     "given": "Alejandro",
+     "family": "Vargas-Villavicencio",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "15",
+   "isbn": "978-0-9998657-5-0"
+  },
+  {
+   "id": "chu-08",
+   "type": "chapter_inst",
+   "year": 2018,
+   "title": "Visión artificial en vehículos acuáticos no tripulados",
+   "authors": [
+    {
+     "given": "Oscar Adrián",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "13",
+   "isbn": "978-0-9998657-3-6"
+  },
+  {
+   "id": "chu-09",
+   "type": "chapter_inst",
+   "year": 2018,
+   "title": "Encriptado caótico de imágenes digitales empleando cómputo paralelo en sistemas embebidos de alto rendimiento",
+   "authors": [
+    {
+     "given": "Diego Armando",
+     "family": "Trujillo-Toledo",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "8",
+   "isbn": "978-0-9998657-3-6"
+  },
+  {
+   "id": "chu-10",
+   "type": "chapter_inst",
+   "year": 2018,
+   "title": "Método de medición de señales electroencefalográficas para detectar lapsos de atención en usuarios con trastorno del espectro autista",
+   "authors": [
+    {
+     "given": "José Jaime",
+     "family": "Esqueda-Elizondo",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "J. Reyes",
+     "family": "Juárez-Ramírez",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "21",
+   "isbn": "978-0-9998657-3-6"
+  },
+  {
+   "id": "chu-11",
+   "type": "chapter_inst",
+   "year": 2017,
+   "title": "Creación de un comité de evaluación de cesión de derechos de propiedad intelectual para fomentar el emprendimiento",
+   "authors": [
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "15",
+   "isbn": "978-607-607-373-5"
+  },
+  {
+   "id": "chu-12",
+   "type": "chapter_inst",
+   "year": 2017,
+   "title": "Control de mecanismos por medio de señales cerebrales",
+   "authors": [
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    },
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Juan Miguel",
+     "family": "Colores-Vargas",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Francisco Javier",
+     "family": "Ramírez-Arias",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "13",
+   "isbn": "978-0-9998657-0-5"
+  },
+  {
+   "id": "chu-13",
+   "type": "chapter_inst",
+   "year": 2017,
+   "title": "Desarrollo de un dispositivo electrónico para pHmetría esofágica ambulatoria",
+   "authors": [
+    {
+     "given": "Enrique Efrén",
+     "family": "García-Guerrero",
+     "me": false
+    },
+    {
+     "given": "Emmanuel",
+     "family": "Montoya-Rafael",
+     "me": false
+    },
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "14",
+   "isbn": "978-0-9998657-0-5"
+  },
+  {
+   "id": "chu-14",
+   "type": "chapter_inst",
+   "year": 2016,
+   "title": "Dispositivo de ultrasonido Doppler para el diagnóstico computarizado de trombosis venosa profunda en extremidades",
+   "authors": [
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "María Berenice",
+     "family": "Fong-Mata",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "9",
+   "isbn": "978-0-692-82901-1"
+  },
+  {
+   "id": "chu-15",
+   "type": "chapter_inst",
+   "year": 2016,
+   "title": "Diseño y construcción de un prototipo electrónico submarino para aplicaciones oceanográficas",
+   "authors": [
+    {
+     "given": "Everardo",
+     "family": "Inzunza-González",
+     "me": true
+    },
+    {
+     "given": "Oscar Adrián",
+     "family": "Aguirre-Castro",
+     "me": false
+    },
+    {
+     "given": "Oscar Roberto",
+     "family": "López-Bonilla",
+     "me": false
+    }
+   ],
+   "venue": "Edited volume, Universidad Autónoma de Baja California",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "article_number": null,
+   "publisher": "UABC",
+   "doi": null,
+   "status": "published",
+   "verified": "CVU",
+   "chapter": "29",
+   "isbn": "978-0-692-82901-1"
+  }
+ ],
+ "data_software": [
+  {
+   "title": "dtv-data",
+   "description": "Supplementary material for “Evaluation of Machine Learning Algorithms for Early Diagnosis of Deep Venous Thrombosis” (2022).",
+   "url": "https://github.com/einzunza/dtv-data",
+   "kind": "Data"
+  },
+  {
+   "title": "dataset_jj",
+   "description": "Feature dataset for attention classification.",
+   "url": "https://github.com/einzunza/dataset_jj",
+   "kind": "Data"
+  },
+  {
+   "title": "eeg_features_v1",
+   "description": "Dataset for classifying motor imagery EEG signals with machine learning algorithms.",
+   "url": "https://github.com/einzunza/eeg_features_v1",
+   "kind": "Data"
+  }
+ ],
+ "ip": {
+  "patents": [
+   {
+    "title": "Sistema y método contador automático de peces vivos usando procesamiento digital de imágenes en tiempo real",
+    "number": "MX 385977",
+    "application": "MX/a/2018/002664",
+    "filed": "2018-03-02",
+    "status": "Granted (IMPI, Mexico)",
+    "holders": "E. Inzunza-González, O. R. López-Bonilla, J. M. Hernández-Ontiveros, E. E. García-Guerrero"
+   },
+   {
+    "title": "Dispositivo periférico y método encriptador/desencriptador hipercaótico de imágenes digitales",
+    "number": "MX 350648",
+    "application": "MX/a/2012/014313",
+    "filed": "2012-11-21",
+    "status": "Granted (IMPI, Mexico)",
+    "holders": "O. R. López-Bonilla, E. E. García-Guerrero, E. Inzunza-González"
+   }
+  ],
+  "software": [
+   {
+    "title": "Programa para obtención de features para medición de atención",
+    "number": "03-2022-082210535400-01",
+    "year": 2022
+   },
+   {
+    "title": "Entrenamiento de sistema de modelo inteligente para predicción de la trombosis venosa profunda mediante la escala de Wells",
+    "number": "03-2022-082210523200-01",
+    "year": 2022
+   },
+   {
+    "title": "Criptografía caótica en sistemas embebidos de alto desempeño",
+    "number": "03-2019-091111224200-01",
+    "year": 2019
+   },
+   {
+    "title": "Diseño y construcción de un prototipo electrónico submarino para aplicaciones oceanográficas",
+    "number": "03-2019-082611242900-01",
+    "year": 2019
+   },
+   {
+    "title": "Software para el encriptado de imágenes digitales, versión 1.0",
+    "number": "03-2017-121809410300-01",
+    "year": 2017
+   },
+   {
+    "title": "Software para el cálculo de enlaces de microondas, versión 1.0",
+    "number": "03-2017-121809452000-01",
+    "year": 2017
+   }
+  ],
+  "software_note": "Copyright registrations with Mexico's National Copyright Institute (INDAUTOR); the year is the application year. Titles are given in the original Spanish."
+ },
+ "projects": [
+  {
+   "title": "Measuring the impact of play-based interventions on students with stress and anxiety using EEG signals and artificial intelligence",
+   "org": "UABC",
+   "start": "2026-02",
+   "end": "2027-10"
+  },
+  {
+   "title": "Intelligent system to support early detection of mental disorders in magnetic resonance imaging, computed tomography and EEG signals with advanced artificial intelligence techniques",
+   "org": "UABC, with Instituto Tecnológico de Tijuana, Instituto Tecnológico de Misantla and Universidad Tecnológica de Tijuana",
+   "start": "2025-02",
+   "end": "2026-10"
+  },
+  {
+   "title": "Randomized controlled trials to measure the neurophysiological effects (EEG, artificial intelligence and neuropsychological techniques) of a mindfulness-based intervention in young adults with anxiety and depression symptoms",
+   "org": "UABC (inter-faculty project)",
+   "start": "2024-02",
+   "end": "2025-10"
+  }
+ ],
+ "projects_note": "Project titles translated from the Spanish institutional records.",
+ "teaching": {
+  "summary": "Teaching in the B.Sc. in Electronics Engineering and in the MyDCI graduate program at UABC (listed in Mexico's National Graduate System, SNP). The CVU records 103 courses between 2010 and 2026.",
+  "groups": [
+   {
+    "level": "Graduate (Master's and Doctoral Program in Science and Engineering, MyDCI-UABC)",
+    "courses": [
+     "Introduction to Deep Learning",
+     "Neural Networks",
+     "Modular Neural Networks",
+     "Intelligent Models",
+     "Artificial Intelligence",
+     "Advanced Machine Learning Models",
+     "Pattern Recognition",
+     "Introduction to Electronic Vision Systems",
+     "Digital Image Processing",
+     "Cryptography",
+     "Instrumentation",
+     "Analog and Digital Instrumentation",
+     "Virtual Electronic Instrumentation",
+     "Digital Filtering",
+     "Software for Electrical Engineering",
+     "Software Development for Embedded Systems",
+     "Hardware and Software Design of Low-Power Embedded Systems",
+     "Time Series Modeling, Analysis and Applications",
+     "Research Activities and Research Assistantship"
+    ],
+    "period": "2010–2026"
+   },
+   {
+    "level": "Undergraduate (B.Sc. in Electronics Engineering, FIAD-UABC)",
+    "courses": [
+     "Microcontroller Systems",
+     "Microcontrollers",
+     "Embedded Systems"
+    ],
+    "period": "2015–2025 (terms recorded in the CVU)"
+   }
+  ],
+  "curriculum": [
+   {
+    "title": "Curriculum design of the courses Machine Learning and Deep Learning for the new B.Sc. in Data Engineering and Artificial Intelligence (plan 2026-7, Faculty of Engineering, Mexicali campus)",
+    "year": "2025",
+    "notes": "Approved by the UABC University Council on 9 October 2025."
+   },
+   {
+    "title": "Curriculum revision of the B.Sc. in Electronics Engineering (Mexicali, Tijuana and Ensenada campuses)",
+    "year": "2017–2019",
+    "notes": "Approved by the UABC University Council on 17 October 2019."
+   }
+  ]
+ },
+ "theses": [
+  {
+   "level": "M.Sc.",
+   "role": "Co-advisor",
+   "year": 2026,
+   "title": "Sensor nanoestructurado de ZnFe2O4/NTC para la detección de acetona incorporando un modelo de aprendizaje profundo y TinyML",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Co-advisor",
+   "year": 2026,
+   "title": "Desarrollo de una aplicación móvil para la detección temprana de trombosis venosa profunda mediante algoritmos de aprendizaje automático",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "Ph.D.",
+   "role": "Advisor",
+   "year": 2025,
+   "title": "Global dynamics evaluation in brain cancer model using deep learning techniques and iterative localization method",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2025,
+   "title": "Evaluación de métodos de control convencionales y no convencionales para planificación de rutas de cuadricóptero",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2024,
+   "title": "Planificación de trayectorias para robot móvil autónomo usando algoritmos inteligentes",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "B.Sc.",
+   "role": "Co-advisor",
+   "year": 2023,
+   "title": "Sensor nanoestructurado para la detección de glucosa",
+   "institution": "UABC",
+   "program": "Undergraduate"
+  },
+  {
+   "level": "Ph.D.",
+   "role": "Advisor",
+   "year": 2023,
+   "title": "Control of mechanisms through electroencephalographic signals",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "Ph.D.",
+   "role": "Advisor",
+   "year": 2022,
+   "title": "A new method for measuring attention in users with autism spectrum disorder using machine learning algorithms and EEG signals",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "Ph.D.",
+   "role": "Advisor",
+   "year": 2022,
+   "title": "Encriptado caótico de imágenes digitales empleando cómputo paralelo en sistemas embebidos de alto rendimiento",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "Ph.D.",
+   "role": "Advisor",
+   "year": 2022,
+   "title": "Evaluation of underwater image enhancement algorithms on embedded systems",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2022,
+   "title": "Diseño y construcción de un controlador de semáforo inteligente con comunicación inalámbrica",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2022,
+   "title": "Desarrollo de un instrumento portable para el diagnóstico temprano de trombosis venosa profunda empleando redes neuronales artificiales",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2022,
+   "title": "Sistema de detección de componentes de zinc en una línea de ensamble manual basado en redes neuronales convolucionales",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2021,
+   "title": "Desarrollo de un sistema criptográfico multiplataforma usando el mapa caótico de Hénon y el protocolo MQTT para transmisión segura de imágenes sobre Internet",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "Ph.D.",
+   "role": "Advisor",
+   "year": 2021,
+   "title": "Design and construction of an electrical impedance tomography system using a single board computer",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "Ph.D.",
+   "role": "Advisor",
+   "year": 2020,
+   "title": "Una técnica de red neuronal artificial y un algoritmo de aumentación de datos para sistematizar el diagnóstico de trombosis venosa profunda mediante el uso de criterios de Wells",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2018,
+   "title": "Diseño y construcción de un prototipo electrónico submarino para aplicaciones oceanográficas",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "Ph.D.",
+   "role": "Co-advisor",
+   "year": 2018,
+   "title": "Criptografía caótica en sistemas embebidos de alto desempeño",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "Ph.D.",
+   "role": "Co-advisor",
+   "year": 2017,
+   "title": "Encriptado hipercaótico de imágenes digitales implementado en FPGA con bioclave de acceso",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "Ph.D.",
+   "role": "Advisor",
+   "year": 2017,
+   "title": "Sistema contador de peces en tiempo real mediante procesamiento digital de imágenes utilizando un sistema embebido",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2017,
+   "title": "Diseño y construcción de un sistema electrónico para la contabilización de peces",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2015,
+   "title": "Diseño y construcción de un sistema electrónico de monitorización de parámetros químicos con telemetría aplicada en acuacultura",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2015,
+   "title": "Instrumentación electrónica para aplicaciones en acuacultura",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2013,
+   "title": "Diseño de un prototipo encriptador-desencriptador hipercaótico de audio con comunicación WiFi",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2013,
+   "title": "Encriptado caótico basado en microprocesador con comunicación Wi-Fi",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "B.Sc.",
+   "role": "Co-advisor",
+   "year": 2012,
+   "title": "Procesamiento digital de imágenes empleando filtros espaciales",
+   "institution": "UABC",
+   "program": "Undergraduate"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2008,
+   "title": "Sistema de supervisión de temperatura de un invernadero mediante una comunicación inalámbrica",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "M.Sc.",
+   "role": "Advisor",
+   "year": 2008,
+   "title": "Diseño y simulación de un amplificador de alta frecuencia, de mediana potencia y alta linealidad",
+   "institution": "UABC",
+   "program": "MyDCI-UABC (SNP)"
+  },
+  {
+   "level": "B.Sc.",
+   "role": "Co-advisor",
+   "year": 2008,
+   "title": "Acceso remoto en tiempo real al generador eólico a través de la intranet",
+   "institution": "Tecnológico de Baja California (TBC Universidad)",
+   "program": "Undergraduate"
+  },
+  {
+   "level": "B.Sc.",
+   "role": "Advisor",
+   "year": 2006,
+   "title": "Desarrollo e integración de una estación de radio FM basada en computadora",
+   "institution": "UABC",
+   "program": "Undergraduate"
+  },
+  {
+   "level": "B.Sc.",
+   "role": "Advisor",
+   "year": 2005,
+   "title": "Sistema de medición automatizado para la caracterización de dispositivos de baja frecuencia",
+   "institution": "UABC",
+   "program": "Undergraduate"
+  },
+  {
+   "level": "B.Sc.",
+   "role": "Advisor",
+   "year": 2005,
+   "title": "Diseño de filtros digitales aplicados a antenas inteligentes",
+   "institution": "UABC",
+   "program": "Undergraduate"
+  },
+  {
+   "level": "B.Sc.",
+   "role": "Advisor",
+   "year": 2004,
+   "title": "Temas selectos de la ingeniería electrónica",
+   "institution": "UABC",
+   "program": "Undergraduate"
+  }
+ ],
+ "thesis_committees": [
+  {
+   "year": "2024",
+   "level": "M.Sc.",
+   "role": "Thesis committee member",
+   "institution": "Instituto Tecnológico de Tijuana (TecNM)",
+   "title": "Sistema para el control de la DMT1 y monitoreo a través de RF (in progress)"
+  },
+  {
+   "year": "2023",
+   "level": "M.Sc.",
+   "role": "Thesis committee and examiner",
+   "institution": "Instituto Tecnológico de Tijuana (TecNM)",
+   "title": "Investigation of supervised learning methods for power amplifiers behavioral modeling"
+  },
+  {
+   "year": "2023",
+   "level": "B.Sc.",
+   "role": "Thesis committee and examiner",
+   "institution": "FIAD-UABC",
+   "title": "Síntesis y aplicación de nanopartículas de plata como sensor de peróxido de hidrógeno (H2O2) en la industria alimentaria"
+  },
+  {
+   "year": "2023",
+   "level": "Ph.D.",
+   "role": "Thesis committee and examiner",
+   "institution": "FIAD-UABC",
+   "title": "Algoritmo de aproximaciones estocásticas con perturbación simultánea para la optimización robusta de índices de capacidad de procesos productivos"
+  },
+  {
+   "year": "2022",
+   "level": "Ph.D.",
+   "role": "Thesis committee and examiner",
+   "institution": "FIAD-UABC",
+   "title": "Diseño de rejillas de acoplamiento fibra a guía de onda"
+  },
+  {
+   "year": "2022",
+   "level": "M.Sc.",
+   "role": "Thesis committee and examiner",
+   "institution": "Instituto Tecnológico de Tijuana (TecNM)",
+   "title": "Diseño de un sistema de linealización de comportamiento para un amplificador de potencia de LTE"
+  },
+  {
+   "year": "2020",
+   "level": "M.Sc.",
+   "role": "Thesis committee and examiner",
+   "institution": "Instituto Tecnológico de Tijuana (TecNM)",
+   "title": "Diseño de un sistema de modelado ponderado a la región de compresión de un RF-PA"
+  },
+  {
+   "year": "2017",
+   "level": "M.Sc.",
+   "role": "Examiner",
+   "institution": "Faculty of Sciences, UABC",
+   "title": "Evaluación de la experiencia de usuario mediante sensores biométricos cerebrales"
+  },
+  {
+   "year": "2015",
+   "level": "Graduate",
+   "role": "Thesis committee and examiner",
+   "institution": "FIAD-UABC",
+   "title": "Diseño e implementación de un sistema electrónico con telemetría"
+  }
+ ],
+ "editorial": [
+  {
+   "role": "Guest Editor",
+   "venue": "Technologies (MDPI)",
+   "detail": "Special issue “Advancements in Medical and Assistive Technologies Using Artificial Intelligence and Deep Learning Techniques — 2nd Edition”",
+   "period": "2026"
+  },
+  {
+   "role": "Guest Editor",
+   "venue": "Technologies (MDPI)",
+   "detail": "Special issue “Advancements in Medical and Assistive Technologies Using Artificial Intelligence and Deep Learning Techniques”, section Assistive Technologies",
+   "period": "2024–2026"
+  },
+  {
+   "role": "Guest Editor",
+   "venue": "Symmetry (MDPI)",
+   "detail": "Special issue “Studies of Symmetry/Asymmetry in Cybersecurity”",
+   "period": "2025"
+  },
+  {
+   "role": "Guest Editor",
+   "venue": "Integration, the VLSI Journal (Elsevier)",
+   "detail": "Special issue “Integer and Fractional-Order Complex Systems and Their Engineering Applications”",
+   "period": "2025"
+  },
+  {
+   "role": "Guest Editor",
+   "venue": "Integration, the VLSI Journal (Elsevier)",
+   "detail": "Special issue associated with EDIESCA 2022",
+   "period": "2022"
+  },
+  {
+   "role": "Guest Editor",
+   "venue": "Electronics (MDPI)",
+   "detail": "Special issue “Embedded and Integrated Circuits and Systems in Real Engineering Applications”",
+   "period": "2022–2023"
+  },
+  {
+   "role": "Section Editor",
+   "venue": "Chaos Theory and Applications (DergiPark)",
+   "detail": null,
+   "period": "2024"
+  },
+  {
+   "role": "Invited Associate Editor",
+   "venue": "Revista Mexicana de Ingeniería Biomédica",
+   "detail": "Special issue “Avances recientes de la inteligencia artificial en la ingeniería biomédica” (Recent advances of artificial intelligence in biomedical engineering)",
+   "period": "2023"
+  },
+  {
+   "role": "Topic Editor",
+   "venue": "Electronics (MDPI)",
+   "detail": null,
+   "period": "2021–2022"
+  }
+ ],
+ "reviewing": {
+  "summary": "Reviewer for the following journals, with the periods recorded in the CVU.",
+  "journals": [
+   "IEEE Transactions on Instrumentation and Measurement (2020–2023)",
+   "IEEE Transactions on Circuits and Systems I: Regular Papers (2019–2023)",
+   "IEEE Transactions on Circuits and Systems II: Express Briefs (2020–2021)",
+   "IEEE Transactions on Circuits and Systems for Video Technology (2019–2021)",
+   "IEEE Transactions on Industrial Informatics (2023)",
+   "IEEE Access (2020–2023)",
+   "Integration, the VLSI Journal (2018–2024)",
+   "Engineering Applications of Artificial Intelligence (2019–2024)",
+   "Applied Mathematics and Computation (2018–2022)",
+   "Chaos, Solitons & Fractals (2021)",
+   "ISA Transactions (2021–2022)",
+   "Information Sciences (2021)",
+   "Journal of the Franklin Institute (2022)",
+   "Programming and Computer Software (2021–2023)",
+   "International Journal of Circuit Theory and Applications (2022–2023)",
+   "IET Intelligent Transport Systems (2021–2022)",
+   "PLOS ONE (2020–2022)",
+   "MDPI journals: Future Internet, IJERPH, Entropy, Sensors, Applied Sciences, Computers, ISPRS IJGI and others (2020–2024)",
+   "Revista Mexicana de Ingeniería Biomédica (2022–2024)",
+   "Revista Aristas: Investigación Básica y Aplicada (2018)"
+  ]
+ },
+ "evaluation": [
+  {
+   "org": "CONACYT (now SECIHTI)",
+   "detail": "Reviewer for the Innovation Incentive Program (calls 2016, 2017 and 2018), for graduate scholarships abroad (2015 and 2016), and for an FOP16 fund project, call 2021-01 (2022)."
+  },
+  {
+   "org": "SEP-PRODEP",
+   "detail": "Reviewer of Desirable Profile applications (2015 and 2021) and of new full-time faculty projects (2020)."
+  },
+  {
+   "org": "UABC",
+   "detail": "Jury member in faculty hiring competitions (2016 and 2017), reviewer for the faculty performance program PREDEPA 2017–2018, member of the technical group for the Institutional Development Plan (2023), and evaluator of outreach projects and the Entrepreneurs Expo (2014–2018)."
+  },
+  {
+   "org": "Other",
+   "detail": "Jury member, 25th National Prototypes and Entrepreneurs Contest, DGETI-CBTIS 41 (2023)."
+  }
+ ],
+ "service": [
+  {
+   "period": "Current",
+   "role": "Leader of the research group “Electronic Instrumentation Applied to Production Systems” (UABC-CA-238)",
+   "notes": "Rated as consolidated under PRODEP guidelines; evaluated as consolidated in 2019."
+  },
+  {
+   "period": "2015–present",
+   "role": "Core faculty member, Master's and Doctoral Program in Science and Engineering (MyDCI-UABC)",
+   "notes": null
+  },
+  {
+   "period": "2025",
+   "role": "Chair of the Academic Subcommittee for Electrical and Electronic Systems (SACC), MyDCI-UABC",
+   "notes": null
+  },
+  {
+   "period": "2026–2031",
+   "role": "Participant in the UABC–Universidade Federal de Goiás (Brazil) memorandum of understanding for an academic network in computer science and electronics",
+   "notes": null
+  },
+  {
+   "period": "",
+   "role": "Participation in CACEI and CIEES accreditation of FIAD engineering programs and in the MyDCI evaluation before the SNP",
+   "notes": null
+  }
+ ],
+ "distinctions": [
+  {
+   "year": "2025",
+   "name": "National System of Researchers (SNII), Level 2",
+   "org": "SECIHTI, Mexico",
+   "notes": "Term 2025–2029."
+  },
+  {
+   "year": "2025",
+   "name": "PRODEP Desirable Profile recognition",
+   "org": "Secretaría de Educación Pública (SEP), Mexico",
+   "notes": "Renewed for six years, 2025–2031. Previous PROMEP/PRODEP recognitions in 2004, 2007, 2010, 2013, 2016 and 2019."
+  },
+  {
+   "year": "2023",
+   "name": "PREDEPA faculty performance program, Level 8",
+   "org": "UABC",
+   "notes": "Terms 2021–2022, 2022–2023 and 2023–2024."
+  },
+  {
+   "year": "2022",
+   "name": "Academic Merit Award 2021, Engineering and Technology",
+   "org": "UABC",
+   "notes": "Presented on 25 February 2022."
+  },
+  {
+   "year": "2020",
+   "name": "National System of Researchers (SNI), Level 1",
+   "org": "CONACYT (now SECIHTI), Mexico",
+   "notes": null
+  },
+  {
+   "year": "2015",
+   "name": "National System of Researchers (SNI), Candidate",
+   "org": "CONACYT (now SECIHTI), Mexico",
+   "notes": "Recorded in 2015 and 2018 in the CVU."
+  },
+  {
+   "year": "2015",
+   "name": "Third place, First National CanSat Educational Satellite Contest, project CanSat Ensenada",
+   "org": "University Space Engineering Consortium (UNISEC)",
+   "notes": "With Electronics Engineering students from FIAD."
+  },
+  {
+   "year": "2013",
+   "name": "Honorable mention, Ph.D. degree",
+   "org": "UABC",
+   "notes": null
+  },
+  {
+   "year": "2013",
+   "name": "Academic merit award, 2013 doctoral cohort",
+   "org": "UABC",
+   "notes": null
+  },
+  {
+   "year": "2011",
+   "name": "Best session paper award (Communication Systems/Technologies and Networks and their Applications I)",
+   "org": "10th Ibero-American Conference on Systems, Cybernetics and Informatics",
+   "notes": null
+  },
+  {
+   "year": "2009",
+   "name": "Best session paper award (Communication Systems/Technologies and Networks and their Applications)",
+   "org": "8th Ibero-American Conference on Systems, Cybernetics and Informatics",
+   "notes": null
+  },
+  {
+   "year": "2003",
+   "name": "Honorable mention for “Software educativo para el análisis y diseño de enlaces de microondas”",
+   "org": "Sociedad Mexicana de Instrumentación",
+   "notes": null
+  },
+  {
+   "year": "2001",
+   "name": "Honorable mention for “Software educativo para calibrar el analizador de redes vectorial”",
+   "org": "Sociedad Mexicana de Instrumentación",
+   "notes": null
+  }
+ ],
+ "talks": [
+  {
+   "year": 2024,
+   "kind": "Keynote",
+   "title": "Aplicaciones de la inteligencia artificial en la clasificación de tumores cerebrales",
+   "event": "Congreso Multidisciplinario Internacional 2024, Inteligencia Artificial «Retos y expectativas»",
+   "country": "Mexico"
+  },
+  {
+   "year": 2024,
+   "kind": "Oral presentation",
+   "title": "Neurophysiological effects study of mindfulness interventions in university students with anxiety and depression symptoms using artificial intelligence techniques: a systematic review",
+   "event": "EDIESCA 2024",
+   "country": "Mexico"
+  },
+  {
+   "year": 2023,
+   "kind": "Oral presentation",
+   "title": "Path planning for industrial autonomous mobile robot using reinforcement learning algorithms",
+   "event": "4th Meeting for the Dissemination and Research in the Study of Complex Systems and their Applications (EDIESCA 2023)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2023,
+   "kind": "Oral presentation",
+   "title": "Complex nanostructure based on metallic nanoclusters and functionalized carbon nanotubes: an application in glucose measurement",
+   "event": "EDIESCA 2023",
+   "country": "Mexico"
+  },
+  {
+   "year": 2023,
+   "kind": "Keynote",
+   "title": "Brain tumor classification using convolutional neural networks on MRI images",
+   "event": "3rd International Virtual Conference on Neuroscience, Brain Disorders and Therapeutics",
+   "country": "United Kingdom"
+  },
+  {
+   "year": 2022,
+   "kind": "Oral presentation",
+   "title": "Clasificación de tumores cerebrales en imágenes de resonancia magnética usando redes neuronales convolucionales",
+   "event": "7.º Foro Nacional de Bioingeniería",
+   "country": "Mexico"
+  },
+  {
+   "year": 2022,
+   "kind": "Oral presentation",
+   "title": "Real-time medical image encryption for H-IoT applications using enhanced chaotic maps",
+   "event": "3rd Meeting for the Dissemination and Research in the Study of Complex Systems and their Applications (EDIESCA 2022)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2022,
+   "kind": "Oral presentation",
+   "title": "Attention measurement of engineering students doing academic activities using machine learning algorithms on EEG signals",
+   "event": "EDIESCA 2022",
+   "country": "Mexico"
+  },
+  {
+   "year": 2021,
+   "kind": "Oral presentation",
+   "title": "Attention measurement of an ASD user using EEG signals: a case study",
+   "event": "9th International Workshop on Numerical and Evolutionary Optimization (NEO 2021)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2021,
+   "kind": "Oral presentation",
+   "title": "Assembly components detection system based on convolutional neural networks: a case study",
+   "event": "NEO 2021",
+   "country": "Mexico"
+  },
+  {
+   "year": 2021,
+   "kind": "Oral presentation",
+   "title": "Traffic flow prediction for smart traffic lights",
+   "event": "NEO 2021",
+   "country": "Mexico"
+  },
+  {
+   "year": 2021,
+   "kind": "Oral presentation",
+   "title": "Evaluation of machine-learning algorithms for early diagnosis of deep venous thrombosis",
+   "event": "NEO 2021",
+   "country": "Mexico"
+  },
+  {
+   "year": 2019,
+   "kind": "Oral presentation",
+   "title": "Diseño y simulación de un oscilador caótico en MATLAB y Verilog",
+   "event": "3.er Coloquio en Electrónica Analógica y Digital (COLEAD 2019)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2019,
+   "kind": "Oral presentation",
+   "title": "Trombosis venosa profunda en extremidades inferiores: revisión de las técnicas de diagnóstico actuales y su simbiosis con el aprendizaje automático para diagnóstico oportuno",
+   "event": "2.º Congreso Internacional de Ciencias de la Ingeniería y Tecnología",
+   "country": "Mexico"
+  },
+  {
+   "year": 2019,
+   "kind": "Oral presentation",
+   "title": "Hardware implementation of the phase distortion to amplitude conversion algorithm applied for a 1.84-GHz PA",
+   "event": "7th International Workshop on Numerical and Evolutionary Optimization (NEO 2019)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2018,
+   "kind": "Oral presentation",
+   "title": "Nuevo algoritmo para la contabilización de peces empleando momentos invariantes de Hu",
+   "event": "IV Congreso Internacional de Investigación Tijuana – 1st Conference on Electronic Engineering (COEE)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2017,
+   "kind": "Full paper",
+   "title": "Sistema optoelectrónico para la contabilización de peces vivos",
+   "event": "39 Congreso Internacional de Ingeniería Electrónica (ELECTRO 2017)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2016,
+   "kind": "Full paper",
+   "title": "Sistema domótico controlado por correo electrónico",
+   "event": "38 Congreso Internacional de Ingeniería Electrónica (ELECTRO 2016)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2016,
+   "kind": "Oral presentation",
+   "title": "Encriptador y desencriptador caótico de imágenes digitales usando un sistema embebido con comunicación Wi-Fi",
+   "event": "ELECTRO 2016",
+   "country": "Mexico"
+  },
+  {
+   "year": 2015,
+   "kind": "Full paper",
+   "title": "Implementación de un sistema criptográfico caótico en FPGA con aplicación en imágenes digitales",
+   "event": "37 Congreso Internacional de Ingeniería Electrónica (ELECTRO 2015)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2015,
+   "kind": "Full paper",
+   "title": "Sistema electrónico digital de 8 bits para generación de caos",
+   "event": "ELECTRO 2015",
+   "country": "Mexico"
+  },
+  {
+   "year": 2014,
+   "kind": "Full paper",
+   "title": "Implementation of an algorithm for fish counting and identification based on Hu moments for aquaculture applications",
+   "event": "7.º Congreso Internacional en Ciencias Computacionales",
+   "country": "Mexico"
+  },
+  {
+   "year": 2014,
+   "kind": "Full paper",
+   "title": "Sistema automático para conteo de peces utilizando sensores infrarrojos y comunicación inalámbrica",
+   "event": "36 Congreso Internacional de Ingeniería Electrónica (ELECTRO 2014)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2014,
+   "kind": "Full paper",
+   "title": "Sistema de control digital on-off por histéresis para pH con comunicación inalámbrica, para aplicaciones acuícolas",
+   "event": "ELECTRO 2014",
+   "country": "Mexico"
+  },
+  {
+   "year": 2013,
+   "kind": "Full paper",
+   "title": "Doble encriptado de imágenes digitales con esteganografía sonora y cifrado caótico en comunicaciones privadas a través de un canal público",
+   "event": "35 Congreso Internacional de Ingeniería Electrónica (ELECTRO 2013)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2012,
+   "kind": "Poster",
+   "title": "Diseño e implementación de un generador de caos basado en microcontrolador de 8 bits",
+   "event": "LV Congreso Nacional de Física",
+   "country": "Mexico"
+  },
+  {
+   "year": 2012,
+   "kind": "Poster",
+   "title": "Encriptado hipercaótico en un sistema de reconocimiento de voz",
+   "event": "LV Congreso Nacional de Física",
+   "country": "Mexico"
+  },
+  {
+   "year": 2012,
+   "kind": "Poster",
+   "title": "Experimental network synchronization of Chua's circuits using plastic optical fiber: application to communications",
+   "event": "12th Experimental Chaos and Complexity Conference",
+   "country": "United States"
+  },
+  {
+   "year": 2011,
+   "kind": "Full paper",
+   "title": "Automatización del movimiento del trolley en las grúas pórtico",
+   "event": "33 Congreso Internacional de Ingeniería Electrónica (ELECTRO 2011)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2011,
+   "kind": "Full paper",
+   "title": "Diversidad espacial por igual ganancia como contramedida a desvanecimientos lentos y periodo corto en un canal Rayleigh",
+   "event": "10.ª Conferencia Iberoamericana en Sistemas, Cibernética e Informática",
+   "country": "United States"
+  },
+  {
+   "year": 2010,
+   "kind": "Poster",
+   "title": "Confirmación experimental de comunicación segura de información utilizando sincronización de circuitos de Chua de cuarto orden",
+   "event": "LIII Congreso Nacional de Física",
+   "country": "Mexico"
+  },
+  {
+   "year": 2010,
+   "kind": "Full paper",
+   "title": "Sistema de monitorización de signos vitales",
+   "event": "32 Congreso Internacional de Ingeniería Electrónica (ELECTRO 2010)",
+   "country": "Mexico"
+  },
+  {
+   "year": 2010,
+   "kind": "Full paper",
+   "title": "Sistema de supervisión de temperatura de un invernadero mediante una comunicación inalámbrica",
+   "event": "9.ª Conferencia Iberoamericana en Sistemas, Cibernética e Informática",
+   "country": "United States"
+  },
+  {
+   "year": 2010,
+   "kind": "Oral presentation",
+   "title": "Encrypted audio communication based on synchronized unified chaotic systems",
+   "event": "International Conference on Computer, Electrical, and Systems Science, and Engineering (ICCESSE 2010)",
+   "country": "France"
+  },
+  {
+   "year": 2009,
+   "kind": "Oral presentation",
+   "title": "Software to encrypt messages using public-key cryptography",
+   "event": "International Conference on Computer, Electrical, and Systems Science, and Engineering",
+   "country": "France"
+  },
+  {
+   "year": 2006,
+   "kind": "Full paper",
+   "title": "Avances en la realización de un analizador de redes de baja frecuencia",
+   "event": "Congreso Tecnología, Aprendizaje y Enseñanza de la Electrónica (TAEE 2006)",
+   "country": "Spain"
+  }
+ ],
+ "organization": [
+  {
+   "year": "2022",
+   "detail": "Organizer of the 3rd Meeting for the Dissemination and Research in the Study of Complex Systems and their Applications (EDIESCA 2022); round-table panelist."
+  },
+  {
+   "year": "2018",
+   "detail": "Organizer of the 4th International Research Congress Tijuana."
+  },
+  {
+   "year": "2017",
+   "detail": "Organizer of the 34th Engineering, Architecture and Design Days (FIAD-UABC)."
+  },
+  {
+   "year": "2016",
+   "detail": "Organizer of the 8th International Congress on Computer Sciences (CICOMP 2016) and session chair."
+  },
+  {
+   "year": "2015",
+   "detail": "Organizer of the Digital Systems Seminar with IPN-CITEDI."
+  },
+  {
+   "year": "2014",
+   "detail": "Organizer of the 21st Engineering and Architecture Days (FIAD-UABC)."
+  },
+  {
+   "year": "2013–2023",
+   "detail": "Organizer of the 1st, 3rd, 5th, 7th, 8th and 9th Line-Following Robot Contests (FIAD-UABC)."
+  }
+ ],
+ "outreach": [
+  {
+   "year": "2026",
+   "detail": "Talk on early brain tumor detection with deep learning, Tecnológico Nacional de México."
+  },
+  {
+   "year": "2025",
+   "detail": "Demonstrations of electronics engineering and artificial intelligence applications at La Noche de las Ciencias (UABC) and at UNAM; talks on brain tumor detection in MRI, TinyML on embedded devices and acute lymphocytic leukemia detection with deep learning (UABC)."
+  },
+  {
+   "year": "2024",
+   "detail": "Talks at the Faculty of Psychology and Education, Universidad Autónoma de Querétaro; workshop at TecNM Pánuco campus; Noche de las Estrellas (UNAM)."
+  },
+  {
+   "year": "2023",
+   "detail": "Noche de las Estrellas (UNAM), La Noche de las Ciencias (CICESE-UABC-UNAM), and AI-on-Raspberry-Pi and robotics demonstrations at FIAD."
+  },
+  {
+   "year": "2022",
+   "detail": "Institutional interview “Developing intelligent systems for biomedical applications” (UABC)."
+  },
+  {
+   "year": "2021",
+   "detail": "Talk on machine learning and signal processing for biomedical engineering, Universidad Politécnica de Chiapas."
+  },
+  {
+   "year": "2020",
+   "detail": "Talk on the Internet of Things, First Virtual Forum on Science, Technology and Innovation of Baja California (State Council for Science and Technological Innovation of Baja California)."
+  },
+  {
+   "year": "2013–2019",
+   "detail": "Workshops on chaotic systems, talks at INAOE and Instituto Tecnológico de Tijuana, science fairs, Baja Seafood Expo 2014, Agrobaja 2014 and the program Cimarrones en la Ciencia y la Tecnología."
+  }
+ ],
+ "training": [
+  {
+   "title": "Generative Artificial Intelligence Engineering (course, 130 h)",
+   "org": "Iberoamerican Technology Foundation",
+   "year": "2026"
+  },
+  {
+   "title": "Installation of photovoltaic systems in residential, commercial and industrial settings (course, 40 h)",
+   "org": "CONOCER, Mexico",
+   "year": "2016"
+  },
+  {
+   "title": "Diploma course in Automation (232 h)",
+   "org": "UABC",
+   "year": "2003"
+  }
+ ],
+ "languages": [
+  {
+   "language": "Spanish",
+   "level": "native"
+  },
+  {
+   "language": "English",
+   "level": null
+  }
+ ]
+}
