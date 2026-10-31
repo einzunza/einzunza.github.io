@@ -210,7 +210,7 @@ body { overflow-wrap: break-word; }
 @media print {
   :root { --paper: #fff; }
   html { font-size: 9.6pt; }
-  body { background: #fff; font-size: 1rem; line-height: 1.42; font-variant-numeric: lining-nums; }
+  body { background: #fff; font-size: 1rem; line-height: 1.42; font-variant-numeric: lining-nums; font-family: "Charter", "Bitstream Charter", "Iowan Old Style", Georgia, serif; }
   .site-header, .skip-link, .toc, .filters, .empty, .cv-actions, .site-footer, .js-only, .cta { display: none !important; }
   .wrap { max-width: none; padding: 0; }
   .cv-head { padding: 0 0 0.6rem; border-bottom: 1.5pt solid var(--accent); align-items: flex-start; }
